@@ -1,0 +1,15 @@
+site_name: JIMLAC 2025
+
+nav:
+    - Home: index.md
+    - JIM: jim.md
+    - LAC: lac.md
+    - Register: register.md
+    - Travel: travel.md
+
+site_dir: ../docs
+
+theme:
+    name: null
+    custom_dir: 'terminal'
+
