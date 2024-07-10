@@ -151,7 +151,7 @@ Past editions of LAC are listed on the Linux Audio website: <https://linuxaudio.
 
 ## Registration and Practical Information
 
-Registration and travel information are shared between JIM and LAC and can be respectively found in the [Register](../register) and [Travel](../travel) tabs of this webiste.
+Registration and travel information are shared between JIM and LAC and can be respectively found in the [Register](register.md) and [Travel](travel.md) tabs of this webiste.
 
 ## Diversity Statement
 

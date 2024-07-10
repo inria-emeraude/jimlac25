@@ -10,8 +10,8 @@ In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference joi
 
 ## How Will It Work?
 
-* All you need to know about the Journées de l'Informatique Musicale 2025 can be found on the [JIM page of the website (in French)](jim).
-* All you need to know about the Linux Audio Conference 2025 can be found on the [LAC page of the website](lac).
+* All you need to know about the Journées de l'Informatique Musicale 2025 can be found on the [JIM page of the website (in French)](jim.md).
+* All you need to know about the Linux Audio Conference 2025 can be found on the [LAC page of the website](lac.md).
 
 JIM 2025 and LAC 2025 remain two independent events with their own call for works, proceedings, committees, rules, etc. but they will be hosted in the same venues, will share some social events as well as the same registration system.
 

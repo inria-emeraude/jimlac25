@@ -1,4 +1,5 @@
 site_name: JIMLAC 2025
+site_url: https://github.com/inria-emeraude/jimlac25
 
 nav:
     - Home: index.md
@@ -8,15 +9,6 @@ nav:
     - Travel: travel.md
 
 site_dir: ../docs
-
-extra:
-    social:
-        - type: github
-          link: https://github.com/inria-emeraude/jimlac25
-        - type: home
-          link: https://inria-emeraude.github.io/jimlac25
-        - type: envelope
-          link: mailto:romain.michon@inria.fr
 
 theme:
     name: null

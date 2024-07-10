@@ -74,4 +74,4 @@ TODO
 
 ## Frais d'inscription et informations pratiques
 
-Les informations concernant les frais d'inscription et comment se rendre à la conférence sont partagées entre les JIM et LAC et peuvent être respectivement trouvées dans les onglets [Register](../register) et [Travel](../travel) du ce site.
+Les informations concernant les frais d'inscription et comment se rendre à la conférence sont partagées entre les JIM et LAC et peuvent être respectivement trouvées dans les onglets [Register](register.md) et [Travel](travel.md) du ce site.
