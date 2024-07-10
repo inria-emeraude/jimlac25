@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/inria-emeraude/jimlac25/</loc>
+         <loc>https://jimlac25.inria.fr/</loc>
          <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/inria-emeraude/jimlac25/jim/</loc>
+         <loc>https://jimlac25.inria.fr/jim/</loc>
          <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/inria-emeraude/jimlac25/lac/</loc>
+         <loc>https://jimlac25.inria.fr/lac/</loc>
          <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/inria-emeraude/jimlac25/register/</loc>
+         <loc>https://jimlac25.inria.fr/register/</loc>
          <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/inria-emeraude/jimlac25/travel/</loc>
+         <loc>https://jimlac25.inria.fr/travel/</loc>
          <lastmod>2024-07-10</lastmod>
          <changefreq>daily</changefreq>
     </url>

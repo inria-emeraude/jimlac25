@@ -1,5 +1,5 @@
 site_name: JIMLAC 2025
-site_url: https://github.com/inria-emeraude/jimlac25
+site_url: https://jimlac25.inria.fr/
 
 nav:
     - Home: index.md
