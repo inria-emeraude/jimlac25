@@ -19,6 +19,8 @@ The scientific portion of both conferences will take place at the Marie Curie Li
 
 The artistic portion of both conference will take place at the Théâtre Astrée of Lyon 1 University: <https://maps.app.goo.gl/w6fFaHR4NSP6rXXo6>
 
+JIM concerts will take place on June 23 and 24. LAC concerts will take place on June 26 and 27 with potentially a "special" live coding concert on the 28th. JIM and LAC will have a joint banquet on June 25th which will serve both as a closing event for the JIM and a welcoming event for LAC.
+
 At this stage, we envision the following registration options (this might be subject to changes):
 
 * JIM registration: registration fee to cover lunches and the conference banquet.

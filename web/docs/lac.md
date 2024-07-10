@@ -4,15 +4,19 @@ LAC is the international conference about Free/Open-Source Software for music, s
 
 ## Important Dates
 
-TODO
+* **March 24, 2025:** Paper submission deadline
+* **April 18, 2025:** Review deadline
+* **April 25, 2025:** Notification of acceptance
+* **May 23, 2025:** Camera-Ready version deadline
 
 ## Call for Papers / Posters / Workshops
 
+The LAC 2025 call of works will be published at the beginning on the 2024 Fall.
+
+<!--
 LAC 2025 invites submissions of [papers](#full-papers), [posters](#poster-papers), [demos](#demos) and [workshops](#workshops) addressing all areas of audio processing based on Linux and open source software.
 
 All submissions and presentations are in English.
-
-<!--Submitted full and poster papers are expected to respect academic standards and must be complete (**a simple abstract is not enough**).-->
 
 Submissions can focus on technical, artistic, and/or scientific issues and can target developers and/or users.
 
@@ -114,12 +118,24 @@ For concerts, LAC will provide the following equipment:
         * Link to video or audio demonstration of the project
         * Technical rider of the work
 
+-->
+
 ## Committees
 
 ### Organizing Committee
 
-TODO
+| Nom               | Role              |
+| --------          | -------           |
+| Romain MICHON     | General Chair     |
+| Pierre LECOMTE    | Paper Chair       |
+| John GRANZOW      | Music Chair       |
+| Stéphane LETZ     | Technical Chair   |
 
+Autres membres du comité d'organisation :
+
+Jean-Cyrille BURDET // Pierre COCHARD // Yann ORLAREY // Tanguy RISSET
+
+<!--
 ### Scientific Committee
 
 TODO
@@ -127,6 +143,7 @@ TODO
 ### Artistic Committee
 
 TODO
+-->
 
 ## Past Editions
 
@@ -134,7 +151,7 @@ Past editions of LAC are listed on the Linux Audio website: <https://linuxaudio.
 
 ## Registration and Practical Information
 
-TODO: cf. general menu
+Registration and travel information are shared between JIM and LAC and can be respectively found in the [Register](../register) and [Travel](../travel) tabs of this webiste.
 
 ## Diversity Statement
 

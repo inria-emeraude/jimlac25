@@ -2,27 +2,42 @@
 
 Chaque année, les Journées d'Informatique Musicale réunissent des chercheurs, développeurs et différents acteurs de la vie musicale utilisant l'informatique comme outil de diffusion, de création, d'interprétation ou de pédagogie. Les JIM sont pilotées par [l'Association Francophone d'Informatique Musicale (AFIM)](http://www.afim-asso.org/) et sont soutenues par la Direction Générale de la Création Artistique du ministère français de la Culture. Cette édition, du 23 au 25 juin 2025, se déroulera à l'[INSA de Lyon](https://www.insa-lyon.fr/) sous l'égide de l'[Inria](https://inria.fr/) et de [GRAME - Centre National de Création Musicale](https://grame.fr/).
 
+<!--TODO: thème de la conférence-->
+
 ## Calendrier
 
-TODO
+* **24 mars 2025:** Limite de soumission des articles
+* **18 avril 2025:** Limite de soumission des appréciations par le comité scientifique
+* **25 avril 2025:** Notification de l'acceptation
+* **23 mai 2025:** Limite de soumission des versions finales
 
 ## Appel à contributions
 
-TODO
+L'appel à contributions des JIMs 2025 sera publié à l'automne 2024.
 
 ## Commités
 
 ### Comité d'organisation
 
-TODO
+| Nom           | Role          |
+| --------      | -------       |
+| Romain MICHON | General Chair |
+| Paul GOUTMANN | Paper Chair   |
+| Stéphane LETZ | Music Chair   |
+
+Autres membres du comité d'organisation :
+
+Jean-Cyrille BURDET // Pierre COCHARD // Yann ORLAREY // Tanguy RISSET
 
 ### Comité de pilotage des JIM
 
-TODO
+Daniel ARFIB // Gérard ASSAYAG // Alain BONARDI // Marc CHEMILLER // Myriam DESAINTE-CATHERINE // Dominique FOBER // Mikhail MALT // Yann ORLAREY // François PACHET // Laurent POTTIER // Julien RABIN // Jean-Michel RACZINSKI // Anne SEDES
 
+<!--
 ### Comité scientifique
 
 TODO
+-->
 
 ## Editions antérieures
 
@@ -59,4 +74,4 @@ TODO
 
 ## Frais d'inscription et informations pratiques
 
-TODO: cf. general menu
+Les informations concernant les frais d'inscription et comment se rendre à la conférence sont partagées entre les JIM et LAC et peuvent être respectivement trouvées dans les onglets [Register](../register) et [Travel](../travel) du ce site.
