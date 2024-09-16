@@ -132,7 +132,7 @@ The LAC 2025 musical program will consist of three concerts, two of which will t
 
 ### How to Submit Music
 
-* Use the [online submission tool](TODO)
+* Use the [LAC 2025 Online Submission Tool](https://lac25.sciencesconf.org/?lang=en)
 * The required file format is PDF, formatted for A4 paper size. Submissions should include:
         * Description of piece and set-up
         * Program notes
