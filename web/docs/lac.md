@@ -120,6 +120,25 @@ For concerts, LAC will provide the following equipment:
 
 -->
 
+## Call for Music
+
+We invite submissions of electronic, electroacoustic and mixed music as well as interactive art installations with an emphasis on open source software. A jury will select the compositions and performances to be included in the LAC 2025 conference program according to artistic merit and technical feasibility. Applicants should expect to perform their work themselves and have all resources needed to perform the piece if selected (e.g., instruments, props, other performers, etc.).
+
+
+### Concert Venues
+
+The LAC 2025 musical program will consist of three concerts, two of which will take place at Le Théâtre Astrée (<https://theatre-astree.univ-lyon1.fr/qui-sommes-nous/>), a concert hall equipped with an 8.4 sound system. For this venue, we are particularly interested in electronic / computer music pieces that will leverage the multichannel set up. The third concert will take place at Le Sucre  (<https://le-sucre.eu/le-lieu/>), an event that will host live coding sets and other performances devised for a night club setting with stereo diffusion.
+
+
+### How to Submit Music
+
+* Use the [online submission tool](TODO)
+* The required file format is PDF, formatted for A4 paper size. Submissions should include:
+        * Description of piece and set-up
+        * Program notes
+        * Links to samples of work: .wav files, videos, etc.
+        * Technical rider
+
 ## Committees
 
 ### Organizing Committee
