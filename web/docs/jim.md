@@ -2,8 +2,6 @@
 
 Chaque année, les Journées d'Informatique Musicale réunissent des chercheurs, développeurs et différents acteurs de la vie musicale utilisant l'informatique comme outil de diffusion, de création, d'interprétation ou de pédagogie. Les JIM sont pilotées par [l'Association Francophone d'Informatique Musicale (AFIM)](http://www.afim-asso.org/) et sont soutenues par la Direction Générale de la Création Artistique du ministère français de la Culture. Cette édition, du 23 au 25 juin 2025, se déroulera à l'[INSA de Lyon](https://www.insa-lyon.fr/) sous l'égide de l'[Inria](https://inria.fr/) et de [GRAME - Centre National de Création Musicale](https://grame.fr/).
 
-<!--TODO: thème de la conférence-->
-
 ## Calendrier
 
 * **24 mars 2025:** Limite de soumission des articles
@@ -13,7 +11,74 @@ Chaque année, les Journées d'Informatique Musicale réunissent des chercheurs,
 
 ## Appel à contributions
 
-L'appel à contributions des JIMs 2025 sera publié à l'automne 2024.
+### Thématiques 2025
+
+En plus des thématiques reconduites, cette édition mettra l'accent sur les thématiques suivantes :
+
+#### Informatique musicale et frugalité
+
+L'informatique musicale frugale consiste à concevoir et utiliser des outils numériques pour la création musicale de manière économe en ressources, réduisant ainsi l'empreinte écologique des technologies musicales. Elle favorise l’utilisation de logiciels légers, l'adoption de solutions open source, de matériel durable, la réutilisation d'objets existants, et l'optimisation des performances pour éviter la surconsommation énergétique, tout en minimisant "l’effet rebond", lorsque les gains en efficacité peuvent entraîner une augmentation de l’utilisation. Les JIMs 2025 invitent la communauté à s’emparer de cette thématique qui émerge de manière plus large autour de l'impact du numérique dans la société, et sollicitent des contributions dans ce domaine.
+
+#### Systèmes embarqués et informatique musicale
+
+Les systèmes embarqués jouent maintenant un rôle prépondérant dans les différents domaines liés à l'informatique musicale. On les retrouve dans des interfaces de contrôle, dans des instruments de musique numériques pour effectuer des tâches de traitement du signal, dans des modules de synthèses sonores, etc. Les JIMs 2025 mettront l'accent sur ces technologies et invitent de nouvelles contributions dans ce domaine.
+
+### Thématiques Reconduites
+
+* **Systèmes informatiques**
+    * Systèmes et protocoles temps réel pour l'informatique musicale
+    * Logiciels libres pour l'analyse, la synthèse, le traitement des sons et la création musicale
+    * Nouvelles stratégies pour la sonification de données
+    * Algorithmes et interfaces pour la spatialisation sonore
+* **Création assistée par ordinateur**
+    * Environnements et langages d'aide à la composition musicale
+    * Orchestration assistée par ordinateur
+    * Systèmes pour la création musicale, de la microstructure à la macroforme
+    * Systèmes de composition et d'arrangement automatiques
+    * Outils informatiques pour la spatialisation et diffusion sonore
+* **Interprétation, arts performatifs et technologie**
+    * Interfaces logicielles et matérielles pour l'interprétation et l'exécution musicale
+    * Dispositifs matériels et logiciels pour pièces interactives
+    * Modélisation et simulation de l'interprétation musicale
+    * Captation et extension numérique du geste instrumental
+    * Geste, virtuosité et nouveaux médias
+    * Nouvelles interfaces, nouveaux modes de jeu
+* **Notation musicale**
+    * Logiciels de reconnaissance optique de partitions
+    * Systèmes pour l'édition et la publication musicale
+    * Notation et visualisation de la musique
+    * Partitions interactives
+* **Aspects historiques et préservation**
+    * Histoire et aspects sociologiques de l'informatique musicale
+    * Définition/redéfinition du rôle du réalisateur en informatique musicale (RIM)
+    * Normalisation, archivage et transmission de l'information musicale
+    * Portage et recréation d'œuvres mixtes et interactives
+    * Préservation des œuvres utilisant les technologies numériques
+    * Rapports d'activités de centres de recherche musicale
+* **Musicologie computationnelle**
+    * Formalisation et représentation des structures musicales
+    * Approches computationnelles de l'analyse musicale
+    * Formalisation et modélisation des connaissances musicales
+    * Modélisation et simulation de la perception sonore et musicale
+    * Outils d'aide à l'analyse musicale
+    * Systèmes d'analyse et de traitement du signal acoustique
+    * Reconnaissance et extraction automatique des paramètres musicaux
+    * Analyse et représentation du geste instrumental
+
+### Détails de la candidature :
+
+Les articles peuvent être écrits en français ou en anglais, entre 4 et 10 pages. Pour les articles en anglais, un résumé en français est obligatoire. Les communications donneront lieu à des présentations orales.
+
+Les articles seront soumis au format PDF. La mise en page devra être réalisée à partir des modèles Word ou LaTeX disponibles aux liens suivants :
+
+* Word template [TODO]
+* LaTeX template [TODO]
+
+Les articles seront déposés en ligne sur la plateforme TODO de la conférence : TODO
+
+### Prix « Jeune Chercheuse / Jeune Chercheur » :
+
+Des propositions de jeunes chercheurs/chercheuses (doctorants, jeunes docteurs et chercheurs indépendants) sont particulièrement bienvenues. Un Prix AFIM « Jeune Chercheuse / Jeune Chercheur » sera attribué au meilleur article présenté par une jeune chercheuse ou un jeune chercheur pour l’encourager dans ses recherches.
 
 ## Commités
 
