@@ -23,12 +23,20 @@ L'informatique musicale frugale consiste à concevoir et utiliser des outils num
 
 Les systèmes embarqués jouent maintenant un rôle prépondérant dans les différents domaines liés à l'informatique musicale. On les retrouve dans des interfaces de contrôle, dans des instruments de musique numériques pour effectuer des tâches de traitement du signal, dans des modules de synthèses sonores, etc. Les JIMs 2025 mettront l'accent sur ces technologies et invitent de nouvelles contributions dans ce domaine.
 
+#### IA, co-créativité et informatique musicale
+
+La présence croissante des systèmes informés dans les pratiques de création sonore soulève des questions traversant de nombreuses thématiques habituelles des JIM. L'IA ouvre des espaces d'exploration musicaux et technologiques que cette édition souhaite mettre en avant. Les JIMs 2025 invitent à réfléchir à ces technologies dans toute leur diversité, et à proposer des contributions explorant leurs usages, implications et potentialités pour l’informatique musicale.
+
 ### Thématiques Reconduites
 
 * **Systèmes informatiques**
     * Systèmes et protocoles temps réel pour l'informatique musicale
     * Logiciels libres pour l'analyse, la synthèse, le traitement des sons et la création musicale
     * Nouvelles stratégies pour la sonification de données
+    * Langages de programmation pour la synthèse et le traitement du son
+* **Traitement du signal**
+    * Algorithmes pour la synthèse et le traitement du son
+    * Dispositifs matériels pour le traitement du son
     * Algorithmes et interfaces pour la spatialisation sonore
 * **Création assistée par ordinateur**
     * Environnements et langages d'aide à la composition musicale
@@ -71,10 +79,10 @@ Les articles peuvent être écrits en français ou en anglais, entre 4 et 10 pag
 
 Les articles seront soumis au format PDF. La mise en page devra être réalisée à partir des modèles Word ou LaTeX disponibles aux liens suivants :
 
-* Word template [TODO]
-* LaTeX template [TODO]
+* LaTeX template [misc/jim25LatexTemplate.zip]
+* Word template [misc/jim25WordTemplate.zip]
 
-Les articles seront déposés en ligne sur la plateforme TODO de la conférence : TODO
+Les articles seront déposés en ligne sur la plateforme de soumission des JIM 2025: <https://jim25.sciencesconf.org/>
 
 ### Prix « Jeune Chercheuse / Jeune Chercheur » :
 
