@@ -79,8 +79,8 @@ Les articles peuvent être écrits en français ou en anglais, entre 4 et 10 pag
 
 Les articles seront soumis au format PDF. La mise en page devra être réalisée à partir des modèles Word ou LaTeX disponibles aux liens suivants :
 
-* LaTeX template [misc/jim25LatexTemplate.zip]
-* Word template [misc/jim25WordTemplate.zip]
+* (LaTeX template)[misc/jim25LatexTemplate.zip]
+* (Word template)[misc/jim25WordTemplate.zip]
 
 Les articles seront déposés en ligne sur la plateforme de soumission des JIM 2025: <https://jim25.sciencesconf.org/>
 
