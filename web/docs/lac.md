@@ -9,20 +9,18 @@ LAC is the international conference about Free/Open-Source Software for music, s
 * **April 25, 2025:** Notification of acceptance
 * **May 23, 2025:** Camera-Ready version deadline
 
-## Call for Papers / Posters / Workshops
+## Call for Papers / Presentations / Demos / Workshops
 
-The LAC 2025 call of works will be published at the beginning on the 2024 Fall.
-
-<!--
-LAC 2025 invites submissions of [papers](#full-papers), [posters](#poster-papers), [demos](#demos) and [workshops](#workshops) addressing all areas of audio processing based on Linux and open source software.
+LAC 2025 invites submissions of papers, presentations, and workshops addressing all areas of audio processing based on Linux and open source software.
 
 All submissions and presentations are in English.
 
-Submissions can focus on technical, artistic, and/or scientific issues and can target developers and/or users.
+Submissions can focus on technical, artistic, and/or scientific issues and target developers and/or users.
 
 This includes (but is not limited to) the following categories:
 
 * Audio and Music Languages
+* Audio and AI
 * Audio Hardware Support
 * Audio Plugins
 * Drivers, System and Sound Architecture
@@ -49,81 +47,43 @@ This includes (but is not limited to) the following categories:
 
 ### Full Papers
 
-Full papers must be written and presented in English. The length of papers is 4 to 8 pages, with up to 5 keywords, including an abstract of up to 200 words. Accepted papers will be available on the conference website during and after the conference and will be published in the conference proceedings with an ISBN.
+Full papers must be written and presented in English. The length of papers is 4 to 8 pages, with up to 5 keywords, including an abstract of up to 200 words. The abstract will be published on the conference website once the paper has been accepted. Full papers will be available on the website during the conference, and after in the proceedings (which will be published with an ISBN number).
 
-All papers are peer reviewed by a committee of experts from different disciplines. Reviewers may suggest improvements to the author(s), or require changes in order to accept the submission.
+All papers are peer reviewed by a committee of experts from different disciplines. Reviewers may suggest improvements to the author(s), require changes in order to accept the submission, or reject it.
 
-The duration of the presentation is 25 minute followed by a 5 minute discussion.
+Full papers will be presented during the conference as in-person oral presentations.
 
-### Poster Papers
+### Presentations Without an Associated Paper
 
-Poster papers must be written in English, should be 2-4 pages, with up to 5 keywords, including an abstract of up to 150 words. Accepted poster papers will be available on the conference website during and after the conference and will be published in the conference proceedings with an ISBN.
+LAC 2025 welcomes oral presentations not associated to a peer-reviewed paper published in the conference proceedings. Such presentations are selected by the scientific committee, based on a abstract up to 500 words, with up to 5 keywords. **No full paper is required in this category**. The abstract will be available on the website during and after the conference.
 
-All posters are peer reviewed by a committee of experts in different disciplines. Reviewers may suggest improvements to the author(s), or require changes in order for the poster to be accepted.
+Presentations in this category have the same format as full paper presentations and will hence be presented during the conference as in-person oral presentations.
 
 ### Demos
 
-Demos are informal project (e.g., plug-in, software, interface, idea, etc.) presentations that will be carried out in parallel with poster presentations. Demos can be submitted through [this online form](TODO) to be added to the conference program.
+Demos are informal project (e.g., plug-in, software, interface, idea, etc.) presentations that will be carried out between the papers presentation sessions.
 
 ### Workshops
 
-Workshop presentations (max duration of 2h) should be 1-4 pages, with up to 5 keywords, including an abstract of up to 150 words to be published on the conference website. Make sure that your proposal indicates if participants are expected to have a specific level, if there are prerequisites, if you'd like to limit the number of participants, etc.
-
-Workshops will take place in the CCRMA classroom (which can host approximately 30 people). A projector and a 4 channels sound system will be available in this space.
-
-Submit a brief description of the workshop including a URL (if available).
+Workshop presentations (max duration of 2h) should be 1-4 pages, with up to 5 keywords, including an abstract of up to 150 words to be published on the conference website. Make sure that your proposal indicates if participants are expected to have a specific level, if there are prerequisites, if you'd like to limit the number of participants, if you have specific technical requirements, etc.
 
 ### How to Submit Papers / Posters / Workshops?
 
-* Use the online submission tool
-* Choose the relevant submission type (_PAPER_, _POSTER_, or _WORKSHOP_) in addition to your 5 categories
-* The required file format is PDF. Authors must use [the provided templates](TODO) for paper formatting.
-* Please let us know if you need a special technical setup for your presentation.
+All the submission should be carried out through this portal: [https://lac25.sciencesconf.org/](https://lac25.sciencesconf.org/)
 
-## Call for Music / Multimedia Installations
+Choose the relevant submission type.
 
-LAC 2025 also invites submissions of musical works involving the use of technology/open source software and multimedia installations.
+The required file format is PDF. For the full paper category, authors must use the provided templates for paper formatting (see below).
 
-A jury will select the compositions and installations to be included in the conference program according to artistic merit and technical feasibility. Please be prepared to perform your work yourself and make sure that you have all resources needed to perform your piece (e.g., instruments, props, other performers, etc.).
+Please let us know if you need a special technical setup for your presentation.
 
-LAC 2025 cannot pay for any expenses related to a performance (e.g., performers, travel, accommodation, special equipment, etc.).
+### Templates
 
-Musical works and installations can address all areas of digital audio and audiovisual art. This includes (but is not limited to) the following categories:
-
-* Electronic Music
-* Electroacoustic Music
-* Mixed Music
-* Acoustic Music
-* Sound Installation
-* Interactive Art
-* Audiovisual Installation
-* Game in art
-* Web and Connected Art
-
-### Available Setups
-
-For concerts, LAC will provide the following equipment:
-
-* CCRMA Stage: 56.8 full 3d sound system (up to 6th order Ambisonics)
-* CCRMA Listening Room: 22.4 sound system (up to 3d order Ambisonics)
-* SCLOrk (the Santa Clara Laptop Orchestra). Pieces accepted for a performance with SCLOrk will be added to the rehearsal schedule of the corresponding SCU class.
-* Additional requests can be made but are not be guaranteed.
-
-### How to Submit Music / Multimedia Installations?
-
-* Use the [online submission tool](TODO)
-* Select the submission type _PERFORMANCE_
-* The required file format is PDF, formatted for Letter paper size. Submissions should include:
-        * Description of the project program notes
-        * Link to video or audio demonstration of the project
-        * Technical rider of the work
-
--->
+We provide only the following LaTeX template (sorry MS-Word users...): [template](link).
 
 ## Call for Music
 
 We invite submissions of electronic, electroacoustic and mixed music as well as interactive art installations with an emphasis on open source software. A jury will select the compositions and performances to be included in the LAC 2025 conference program according to artistic merit and technical feasibility. Applicants should expect to perform their work themselves and have all resources needed to perform the piece if selected (e.g., instruments, props, other performers, etc.).
-
 
 ### Concert Venues
 
