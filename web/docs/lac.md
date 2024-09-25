@@ -73,13 +73,13 @@ All the submission should be carried out through this portal: [https://lac25.sci
 
 Choose the relevant submission type.
 
-The required file format is PDF. For the full paper category, authors must use the provided templates for paper formatting (see below).
+The required file format is PDF. For the full paper category, authors must use the provided [template](misc/lac25Template.zip) for paper formatting (see below).
 
 Please let us know if you need a special technical setup for your presentation.
 
 ### Templates
 
-We provide only the following LaTeX template (sorry MS-Word users...): [template](link).
+We provide only the following LaTeX template (sorry MS-Word users...): [template](misc/lac25Template.zip).
 
 ## Call for Music
 
