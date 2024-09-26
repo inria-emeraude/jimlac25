@@ -106,7 +106,7 @@ The LAC 2025 musical program will consist of three concerts, two of which will t
 | John GRANZOW      | Music Chair       |
 | Stéphane LETZ     | Technical Chair   |
 
-Autres membres du comité d'organisation :
+Other members of the organizing committee:
 
 Jean-Cyrille BURDET // Pierre COCHARD // Yann ORLAREY // Tanguy RISSET
 
