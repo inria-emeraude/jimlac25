@@ -8,4 +8,4 @@ At this stage, we envision the following registration options (this might be sub
 * JIM + LAC pass: registration fee to cover lunches throughout the whole week and the conference banquet.
 * Both JIM and LAC will be live streamed for free (no need to register for that).
 
-Full registration information will be posted at the end of the Winter of 2025.
+Full registration information will be posted at the end of Winter 2024-2025.
