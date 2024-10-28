@@ -1,6 +1,6 @@
 # Linux Audio Conference 2025
 
-LAC is the international conference about Free/Open-Source Software for music, sound, and other media with GNU/Linux as the main platform. In 2025, it will be held at INSA Lyon (France) under the hospices of [Inria](https://inria.fr/), [GRAME-CNCM](https://grame.fr), [INSA Lyon](https://www.insa-lyon.fr/), and [AFIM](http://www.afim-asso.org/) on June 26-28.
+LAC is the international conference about Free/Open-Source Software for music, sound, and other media with GNU/Linux as the main platform. In 2025, it will be held at INSA Lyon (France) under the auspices of [Inria](https://inria.fr/), [GRAME-CNCM](https://grame.fr), [INSA Lyon](https://www.insa-lyon.fr/), and [AFIM](http://www.afim-asso.org/) on June 26-28.
 
 ## Important Dates
 
