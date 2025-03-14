@@ -404,9 +404,7 @@ p {
     padding: 0 calc(var(--global-space) * 2)
 }
 
-img {
-    width: 100%
-}
+
 
 .progress-bar {
     height: 8px;

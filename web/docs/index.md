@@ -1,12 +1,26 @@
 # JIMLAC 2025 - June 23-28, 2025 - Lyon (FR)
 
-![](img/lyon.jpg "Lyon")
+<!--![](img/lyon.jpg "Lyon")-->
+
+<img src="img/lyon.jpg" width="100%">
 
 ## >> Journées de l'Informatique Musicale (JIM): 23-25 juin 2025 <br> >> Linux Audio Conference (LAC): June 26-28, 2025
 
 In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference join forces and will take place in Lyon (France) under the auspices of [Inria](https://inria.fr/), [GRAME-CNCM](https://grame.fr), [INSA Lyon](https://www.insa-lyon.fr/), and [AFIM](http://www.afim-asso.org/) as two successive events with shared ressources! You should expect many concerts, cool talks, fun social events, and great food! The calls for papers/music will be published by the beginning of September 2024 on this website: stay tuned!
 
-![](img/logos.jpg "Logos")
+<!--![](img/logos.jpg "Logos")-->
+<div>
+<center>
+<a href="https://inria.fr"><img src="img/logoInria.png" width="23%"></a>
+<a href="https://www.grame.fr/"><img src="img/logoGrame.png" width="23%"></a>
+<a href="https://www.citi-lab.fr/"><img src="img/logoCiti.png" width="15%"></a>
+<a href="https://www.insa-lyon.fr/"><img src="img/logoInsa.png" width="23%"></a>
+<br>
+<a href="https://www.univ-lyon1.fr/"><img src="img/logoLyon1.jpg" width="30%"></a>
+<a href="https://www.univ-lyon1.fr/campus/culture"><img src="img/logoLyon1Cult.jpg" width="20%"></a>
+<a href="https://theatre-astree.univ-lyon1.fr"><img src="img/logoAstree.png" width="15%"></a>
+</center>
+</div>
 
 ## How Will It Work?
 
@@ -30,3 +44,7 @@ At this stage, we envision the following registration options (this might be sub
 * Both JIM and LAC will be live streamed for free (no need to register for that).
 
 Note to LAC's "purists:" LAC 2025 will take place during the summer break on a large campus: this means that there won't be that many options for buying food near the conference venue. This is why we're offering you the possibility to pay a fee to have all your lunches covered and to give you access to the conference banquet.
+
+## Contact
+
+Feel free to reach out to us at [jimlac25_AT_grame_DOT_fr](mailto:jimlac25@grame.fr) if you have any questions.

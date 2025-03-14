@@ -73,7 +73,7 @@ All the submission should be carried out through this portal: [https://lac25.sci
 
 Choose the relevant submission type.
 
-The required file format is PDF. For the full paper category, authors must use the provided [template](misc/lac25Template.zip) for paper formatting (see below).
+The required file format is PDF. For the full paper category, authors must use the provided [template](misc/lac25Template.zip) for paper formatting (see below). For the other categories, your PDF should contain the title of your presentation/demo/workshop, the name of the authors and their affiliations, an abtsrcat/description (you can either use the full paper template or your own).
 
 Please let us know if you need a special technical setup for your presentation.
 
@@ -92,7 +92,7 @@ The LAC 2025 musical program will consist of three concerts, two of which will t
 
 ### How to Submit Music
 
-* Use the [LAC 2025 Online Submission Tool](https://lac25.sciencesconf.org/?lang=en)
+* Use the [LAC 2025 Online Submission Tool](https://lac25.sciencesconf.org/?lang=en) and select the "music" submission type in the submission form.
 * The required file format is PDF, formatted for A4 paper size. Submissions should include: (i) description of piece and set-up, (ii) program notes, (iii) links to samples of work: .wav files, videos, etc., and (iv) a technical rider.
 
 ## Committees
