@@ -4,7 +4,7 @@ Chaque année, les Journées d'Informatique Musicale réunissent des chercheurs,
 
 ## Calendrier
 
-* **24 mars 2025:** Limite de soumission des articles
+* **31 mars 2025** (<s>24 mars 2025</s>): Limite de soumission des articles
 * **18 avril 2025:** Limite de soumission des appréciations par le comité scientifique
 * **25 avril 2025:** Notification de l'acceptation
 * **23 mai 2025:** Limite de soumission des versions finales

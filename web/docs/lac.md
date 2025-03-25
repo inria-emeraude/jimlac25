@@ -4,7 +4,7 @@ LAC is the international conference about Free/Open-Source Software for music, s
 
 ## Important Dates
 
-* **March 24, 2025:** Paper submission deadline
+* **March 31, 2025** (<s>March 24, 2025</s>): Paper/music submission deadline
 * **April 18, 2025:** Review deadline
 * **April 25, 2025:** Notification of acceptance
 * **May 23, 2025:** Camera-Ready version deadline
