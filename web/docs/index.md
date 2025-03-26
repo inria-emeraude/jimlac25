@@ -4,7 +4,8 @@
 
 <img src="img/lyon.jpg" width="100%">
 
-## >> Journées de l'Informatique Musicale (JIM): 23-25 juin 2025 <br> >> Linux Audio Conference (LAC): June 26-28, 2025
+* **Journées de l'Informatique Musicale (JIM): 23-25 juin 2025**
+* **Linux Audio Conference (LAC): June 25-28, 2025**
 
 In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference join forces and will take place in Lyon (France) under the auspices of [Inria](https://inria.fr/), [GRAME-CNCM](https://grame.fr), [INSA Lyon](https://www.insa-lyon.fr/), and [AFIM](http://www.afim-asso.org/) as two successive events with shared ressources! You should expect many concerts, cool talks, fun social events, and great food! The calls for papers/music will be published by the beginning of September 2024 on this website: stay tuned!
 
@@ -21,6 +22,139 @@ In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference joi
 <a href="https://theatre-astree.univ-lyon1.fr"><img src="img/logoAstree.png" width="15%"></a>
 </center>
 </div>
+
+## Program Overview
+
+<table class="waffle" cellspacing="0" cellpadding="0" style="font-size:10pt;text-align:center;">
+        <tbody>
+            <tr style="height: 20px;font-size:12pt;">
+                <td class="s0"></td>
+                <td class="s1" dir="ltr"><b>June 23</b></td>
+                <td class="s1" dir="ltr"><b>June 24</b></td>
+                <td class="s1" dir="ltr" colspan="2"><b>June 25</b></td>
+                <td class="s1" dir="ltr"><b>June 26</b></td>
+                <td class="s1" dir="ltr"><b>June 27</b></td>
+                <td class="s1" dir="ltr"><b>June 28</b></td>
+            </tr>
+            <tr style="height: 20px">
+                <td class="s1" dir="ltr">Morning</td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>JIM Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s2" dir="ltr">
+                    <b>JIM Paper Sessions</b><br>--<br>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr" colspan="2">
+                    <span style="">
+                        <b>JIM + ICCARE Joint Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>LAC Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>LAC Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>LAC Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+            </tr>
+            <tr style="height: 20px">
+                <td class="s1" dir="ltr">Afternoon</td>
+                <td class="s2" dir="ltr">
+                    <b>JIM Paper Sessions</b><br>--<br>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>JIM Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>JIM Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>ICCARE Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>LAC Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>LAC Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>LAC Paper Sessions</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Marie Curie Library</span>
+                </td>
+            </tr>
+            <tr style="height: 20px">
+                <td class="s1" dir="ltr">Evening</td>
+                <td class="s2" dir="ltr">
+                    <b>Concert 1: GNOMON Premiere</b><br>--<br>
+                    <span style="font-style:italic;">Astrée Theater</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>Concert 2: Folia</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Astrée Theater</span>
+                </td>
+                <td class="s0" dir="ltr" colspan="2">
+                    <span style="">
+                        <b>JIM + ICCARE + LAC Banquet With Live Electronic Music (Concert 3)</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">CITI Lab Yard</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>Concert 4: LAC Concert</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Astrée Theater</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>Concert 5: LAC Concert</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Astrée Theater</span>
+                </td>
+                <td class="s0" dir="ltr">
+                    <span style="">
+                        <b>Concert 6: Live Electronic Music</b><br>--<br>
+                    </span>
+                    <span style="font-style:italic;">Le Sucre</span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
 ## How Will It Work?
 
