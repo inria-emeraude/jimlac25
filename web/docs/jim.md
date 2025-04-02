@@ -1,11 +1,11 @@
-# Journée de l'Informatique Musicale 2025
+# Journées de l'Informatique Musicale 2025
 
 Chaque année, les Journées d'Informatique Musicale réunissent des chercheurs, développeurs et différents acteurs de la vie musicale utilisant l'informatique comme outil de diffusion, de création, d'interprétation ou de pédagogie. Les JIM sont pilotées par [l'Association Francophone d'Informatique Musicale (AFIM)](http://www.afim-asso.org/) et sont soutenues par la Direction Générale de la Création Artistique du ministère français de la Culture. Cette édition, du 23 au 25 juin 2025, se déroulera à l'[INSA de Lyon](https://www.insa-lyon.fr/) sous l'égide de l'[Inria](https://inria.fr/) et de [GRAME - Centre National de Création Musicale](https://grame.fr/).
 
 ## Calendrier
 
 * **31 mars 2025** (<s>24 mars 2025</s>): Limite de soumission des articles
-* **18 avril 2025:** Limite de soumission des appréciations par le comité scientifique
+* **22 avril 2025** (<s>18 avril 2025</s>): Limite de soumission des appréciations par le comité scientifique
 * **25 avril 2025:** Notification de l'acceptation
 * **23 mai 2025:** Limite de soumission des versions finales
 
@@ -88,7 +88,7 @@ Les articles seront déposés en ligne sur la plateforme de soumission des JIM 2
 
 Des propositions de jeunes chercheurs/chercheuses (doctorants, jeunes docteurs et chercheurs indépendants) sont particulièrement bienvenues. Un Prix AFIM « Jeune Chercheuse / Jeune Chercheur » sera attribué au meilleur article présenté par une jeune chercheuse ou un jeune chercheur pour l’encourager dans ses recherches.
 
-## Commités
+## Comités
 
 ### Comité d'organisation
 

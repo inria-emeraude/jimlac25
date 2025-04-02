@@ -25,9 +25,9 @@ In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference joi
 
 ## Program Overview
 
-<table class="waffle" cellspacing="0" cellpadding="0" style="font-size:10pt;text-align:center;">
+<table class="waffle" cellspacing="0" cellpadding="0" style="font-size:11pt;text-align:center;">
         <tbody>
-            <tr style="height: 20px;font-size:12pt;">
+            <tr style="font-size:13pt;">
                 <td class="s0"></td>
                 <td class="s1" dir="ltr"><b>June 23</b></td>
                 <td class="s1" dir="ltr"><b>June 24</b></td>
@@ -36,7 +36,7 @@ In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference joi
                 <td class="s1" dir="ltr"><b>June 27</b></td>
                 <td class="s1" dir="ltr"><b>June 28</b></td>
             </tr>
-            <tr style="height: 20px">
+            <tr>
                 <td class="s1" dir="ltr">Morning</td>
                 <td class="s0" dir="ltr">
                     <span style="">
@@ -73,7 +73,7 @@ In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference joi
                     <span style="font-style:italic;">Marie Curie Library</span>
                 </td>
             </tr>
-            <tr style="height: 20px">
+            <tr>
                 <td class="s1" dir="ltr">Afternoon</td>
                 <td class="s2" dir="ltr">
                     <b>JIM Paper Sessions</b><br>--<br>
@@ -116,7 +116,7 @@ In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference joi
                     <span style="font-style:italic;">Marie Curie Library</span>
                 </td>
             </tr>
-            <tr style="height: 20px">
+            <tr>
                 <td class="s1" dir="ltr">Evening</td>
                 <td class="s2" dir="ltr">
                     <b>Concert 1: GNOMON Premiere</b><br>--<br>
