@@ -19,10 +19,10 @@
     <th colspan="4" style="font-size:20pt;"><b>Lundi, 23 juin</b></th>
 </tr>
 <tr>
-    <th><b>Time</b></th>
-    <th><b>What</b></th>
-    <th><b>Who</b></th>
-    <th><b>Where</b></th>
+    <th><b>Horaire</b></th>
+    <th><b>Quoi</b></th>
+    <th><b>Qui</b></th>
+    <th><b>Ou</b></th>
 </tr>
 <tr class="pgm-general">
     <th colspan="4" style="font-size:16pt;"><b>Ouverture des JIM-25</b></th>
@@ -141,13 +141,13 @@
     <th colspan="4" style="font-size:16pt;"><b>Concert 1 - Session 2 (JIM-25)</b></th>
 </tr>
 <tr class="pgm-music">
-    <td>20:19 - 21:19</td>
+    <td>20:20 - 21:20</td>
     <td><i>Gnomon</i> : performance sous dôme ambisonique, trompette et électronique immersive en temps réel</td>
     <td>José Miguel Fernandez</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">Théâtre Astrée</a></td>
 </tr>
 <tr class="pgm-music">
-    <td>20:19 - 21:19</td>
+    <td>20:20 - 21:20</td>
     <td><i>Synthetic Soundscape</i>, pour dôme ambisonique</td>
     <td>Nuria Giménez Comas</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">Théâtre Astrée</a></td>
@@ -161,10 +161,10 @@
     <th colspan="4" style="font-size:20pt;"><b>Mardi, 24 juin</b></th>
 </tr>
 <tr>
-    <th><b>Time</b></th>
-    <th><b>What</b></th>
-    <th><b>Who</b></th>
-    <th><b>Where</b></th>
+    <th><b>Horaire</b></th>
+    <th><b>Quoi</b></th>
+    <th><b>Qui</b></th>
+    <th><b>Ou</b></th>
 </tr>
 <tr class="pgm-general">
     <td>09:00 - 09:30</td>
@@ -311,10 +311,10 @@
     <th colspan="4" style="font-size:20pt;"><b>Mercredi, 25 juin</b></th>
 </tr>
 <tr>
-    <th><b>Time</b></th>
-    <th><b>What</b></th>
-    <th><b>Who</b></th>
-    <th><b>Where</b></th>
+    <th><b>Horaire</b></th>
+    <th><b>Quoi</b></th>
+    <th><b>Qui</b></th>
+    <th><b>Ou</b></th>
 </tr>
 <tr class="pgm-general">
     <td>09:00 - 09:30</td>
