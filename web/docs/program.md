@@ -480,8 +480,8 @@
 </tr>
 <tr class="pgm-music">
     <td>19:19 - 20:19</td>
-    <td>TODO</td>
-    <td>TODO</td>
+    <td>TBA</td>
+    <td>TBA</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">Théâtre Astrée</a></td>
 </tr>
 </table>
@@ -592,8 +592,8 @@
 </tr>
 <tr class="pgm-music">
     <td>19:19 - 20:19</td>
-    <td>TODO</td>
-    <td>TODO</td>
+    <td>TBA</td>
+    <td>TBA</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">Théâtre Astrée</a></td>
 </tr>
 </table>
@@ -703,8 +703,8 @@
 </tr>
 <tr class="pgm-music">
     <td>20:00 - 22:00</td>
-    <td>TODO</td>
-    <td>TODO</td>
+    <td>TBA</td>
+    <td>TBA</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">Le sucre</a></td>
 </tr>
 </table>
