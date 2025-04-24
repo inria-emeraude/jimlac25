@@ -12,6 +12,14 @@
     background-color: rgb(245, 183, 177);
 }
 
+.pgm-workshop{
+    background-color: rgb(125, 206, 160);
+}
+
+.pgm-demo{
+    background-color: rgb(210, 180, 222);
+}
+
 * {
     box-sizing: border-box;
     text-rendering: geometricPrecision

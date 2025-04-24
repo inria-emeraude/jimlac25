@@ -4,9 +4,13 @@
 <tr>
     <td class="pgm-general">General Events</td>
     <td class="pgm-science">Scientific Events</td>
+    <td class="pgm-workshop">Workshops</td>
+    <td class="pgm-demo">Demos</td>
     <td class="pgm-music">Artistic Events</td>
 </tr>
 </table>
+
+## JIM-25
 
 <!-- ********************************************* -->
 
@@ -364,13 +368,16 @@
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
+    <th colspan="4" style="font-size:16pt;"><b>Banquet/Party (JIM-25 + LAC-25)</b></th>
+</tr>
+<tr class="pgm-general">
     <td>19:00 - 23:00</td>
     <td colspan="2">Banquet BBQ Auvergnat Electro (en commun avec ICCARE et LAC-25)</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">Cours du CITI</a></td>
 </tr>
 </table>
 
-<!-- STEPH -->
+## LAC-25
 
 <!-- ********************************************* -->
 
@@ -385,7 +392,7 @@
     <th><b>Where</b></th>
 </tr>
 <tr class="pgm-general">
-    <th colspan="4" style="font-size:16pt;"><b>LAC-25 opening</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>LAC-25 Opening</b></th>
 </tr>
 <tr class="pgm-general">
     <td>08:30 - 09:00</td>
@@ -464,18 +471,31 @@
     <td>Markidis Marco Matteo</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
 </tr>
-
-s<tr class="pgm-general">
-    <th colspan="4" style="font-size:16pt;"><b>Coffe Break and Demo sessions</b></th>
+<tr class="pgm-demo">
+    <th colspan="4" style="font-size:16pt;"><b>Coffe Break and Demo Session (LAC-25)</b></th>
 </tr>
-<tr class="pgm-general">
+<tr class="pgm-demo">
     <td>16:00 - 17:00</td>
-    <td>AudioReach: An End-to-End Audio Solution Lai Patrick </td>
-    <td>Free & open tools for Dante protocol, made through reverse engineering Teodor Wozniak </td>
-    <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">First floor</a></td>
+    <td>AudioReach: An End-to-End Audio Solution</td>
+    <td>Lai Patrick</td>
+    <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
 </tr>
-
-<tr class="pgm-science">
+<tr class="pgm-demo">
+    <td>16:00 - 17:00</td>
+    <td>Free & Open Tools for Dante Protocol, Made Through Reverse Engineering</td>
+    <td>Teodor Wozniak</td>
+    <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
+</tr>
+<tr class="pgm-demo">
+    <td>16:00 - 17:00</td>
+    <td>Native Wayland Audio Plug-In User Interfaces</td>
+    <td>Julian Wolff</td>
+    <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
+</tr>
+<tr class="pgm-workshop">
+    <th colspan="4" style="font-size:16pt;"><b>Workshop 1 (LAC-25)</b></th>
+</tr>
+<tr class="pgm-workshop">
     <td>17:00 - 18:30</td>
     <td>Workshop: Ardour Lua Scripting</td>
     <td>Robin Gareus</td>
