@@ -7,7 +7,7 @@
 * **Journées de l'Informatique Musicale (JIM): 23-25 juin 2025**
 * **Linux Audio Conference (LAC): June 25-28, 2025**
 
-In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference join forces and will take place in Lyon (France) under the auspices of [Inria](https://inria.fr/), [GRAME-CNCM](https://grame.fr), [INSA Lyon](https://www.insa-lyon.fr/), and [AFIM](http://www.afim-asso.org/) as two successive events with shared ressources! You should expect many concerts, cool talks, fun social events, and great food! The calls for papers/music will be published by the beginning of September 2024 on this website: stay tuned!
+In 2025, the Journées de l'Informatique Musicale and Linux Audio Conference join forces and will take place in Lyon (France) under the auspices of [Inria](https://inria.fr/), [GRAME-CNCM](https://grame.fr), [INSA Lyon](https://www.insa-lyon.fr/), and [AFIM](http://www.afim-asso.org/) as two successive events with shared ressources! You should expect many concerts, cool talks, fun social events, and great food! The final detailed program will soon be announced. In the meantime, you should feel free to [register to this event](register.md) and to [prepare your trip to Lyon](travel.md).
 
 <!--![](img/logos.jpg "Logos")-->
 <div>
@@ -167,17 +167,7 @@ The scientific portion of both conferences will take place at the Marie Curie Li
 
 The artistic portion of both conference will take place at the Théâtre Astrée of Lyon 1 University: <https://maps.app.goo.gl/w6fFaHR4NSP6rXXo6>
 
-JIM concerts will take place on June 23 and 24. LAC concerts will take place on June 26 and 27 with potentially a "special" live coding concert on the 28th. JIM and LAC will have a joint banquet on June 25th which will serve both as a closing event for the JIM and a welcoming event for LAC.
-
-At this stage, we envision the following registration options (this might be subject to changes):
-
-* JIM registration: registration fee to cover lunches and the conference banquet.
-* LAC basic registration: FREE (no lunches and no banquet included).
-* LAC full registration: registration fee to cover lunches and the conference banquet.
-* JIM + LAC pass: registration fee to covert lunches throughout the whole week and the conference banquet.
-* Both JIM and LAC will be live streamed for free (no need to register for that).
-
-Note to LAC's "purists:" LAC 2025 will take place during the summer break on a large campus: this means that there won't be that many options for buying food near the conference venue. This is why we're offering you the possibility to pay a fee to have all your lunches covered and to give you access to the conference banquet.
+JIM concerts will take place on June 23 and 24. LAC concerts will take place on June 25-27 with potentially a "special" live coding concert on the 28th. JIM and LAC will have a joint banquet on June 25th which will serve both as a closing event for the JIM and a welcoming event for LAC.
 
 ## Contact
 

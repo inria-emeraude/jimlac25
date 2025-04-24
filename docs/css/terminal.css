@@ -1,5 +1,17 @@
 /*! terminal.css 0.7.2 | MIT License | github.com/Gioni06/terminal.css */
 
+.pgm-general{
+    background-color: rgb(174, 214, 241);
+}
+
+.pgm-science{
+    background-color: rgb(247, 220, 111);
+}
+
+.pgm-music{
+    background-color: rgb(245, 183, 177);
+}
+
 * {
     box-sizing: border-box;
     text-rendering: geometricPrecision

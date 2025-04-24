@@ -3,6 +3,7 @@ site_url: https://jimlac25.inria.fr/
 
 nav:
     - Home: index.md
+    - Program: program.md
     - JIM: jim.md
     - LAC: lac.md
     - Register: register.md
