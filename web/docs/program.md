@@ -607,7 +607,9 @@
     <td colspan="2">Coffe Break</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
 </tr>
-<tr class="pgm-science">
+<tr class="pgm-workshop">
+    <th colspan="4" style="font-size:16pt;"><b>Workshop 2 (LAC-25)</b></th>
+<tr class="pgm-workshop">
     <td>16:30 - 18:30</td>
     <td>C++ Audio Development on Android with LDSP</td>
     <td>Victor Zappi, Carla Tapparo</td>
