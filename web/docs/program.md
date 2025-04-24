@@ -465,11 +465,15 @@
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
 </tr>
 
+s<tr class="pgm-general">
+    <th colspan="4" style="font-size:16pt;"><b>Coffe Break and Demo sessions</b></th>
+</tr>
 <tr class="pgm-general">
     <td>16:00 - 17:00</td>
-    <td colspan="2">Coffe Break and Demo sessions</td>
-    <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
-</tr>s
+    <td>AudioReach: An End-to-End Audio Solution Lai Patrick </td>
+    <td>Free & open tools for Dante protocol, made through reverse engineering Teodor Wozniak </td>
+    <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">First floor</a></td>
+</tr>
 
 <tr class="pgm-science">
     <td>17:00 - 18:30</td>
