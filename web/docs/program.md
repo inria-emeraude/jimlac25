@@ -464,13 +464,15 @@
     <td>Markidis Marco Matteo</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
 </tr>
+
 <tr class="pgm-general">
-    <td>16:00 - 16:30</td>
-    <td colspan="2">Coffe Break</td>
+    <td>16:00 - 17:00</td>
+    <td colspan="2">Coffe Break and Demo sessions</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
-</tr>
+</tr>s
+
 <tr class="pgm-science">
-    <td>16:30 - 18:00</td>
+    <td>17:00 - 18:30</td>
     <td>Workshop: Ardour Lua Scripting</td>
     <td>Robin Gareus</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
