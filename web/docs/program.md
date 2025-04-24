@@ -723,7 +723,7 @@
 </tr>
 <tr class="pgm-general">
     <td>16:30 - 17:00</td>
-    <td colspan="2">Closing Ceremony</td>
+    <td colspan="2">LAC-25 Closing Ceremony</td>
     <td><a href="#map"><img src="images/map-icon.png" width="40px"></a> <a href="https://goo.gl/maps/KBFbXGCRVAfdwnBH8">BMC</a></td>
 </tr>
 <tr class="pgm-music">
