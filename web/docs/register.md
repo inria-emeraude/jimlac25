@@ -6,7 +6,7 @@ JIM-25 and LAC-25 are two separate events sharing common ressources. You are wel
 
 ## Inscription aux JIMs 2025
 
-L'inscription aux JIMs 2025 se fait sur le portail suivant : <TODO> **impérativement avant le premier juin 2025 !**
+L'inscription aux JIMs 2025 se fait sur le portail suivant : <https://gramebime.mapado.com/event/505377-jim-journees-de-linformatique-musicale-2025> **impérativement avant le premier juin 2025 !** (English portal: <https://gramebime.mapado.com/en/event/505377-jim-journees-de-linformatique-musicale-2025>).
 
 Afin de rendre les Journées de l'Informatique Musicale accessibles au plus grand nombre, l'inscription est payante cette année seulement pour les personnes présentant une communication scientifique. En d'autre termes, si vous souhaitez participer aux JIMs en tant qu'auditeur libre, vous n'avez pas à payer d'inscription. Les options de restaurations détaillées ci-dessous restent évidemment néanmoins payantes pour tous.
 
@@ -35,7 +35,7 @@ L'option banquet donne accès au banquet concert (en commun avec LAC-25) qui aur
 
 ## Register to LAC-25
 
-You can register to LAC-25 using this portal: <TODO> (**registration must be carried out by June 1, 2025!**).
+You can register to LAC-25 using this portal: <https://gramebime.mapado.com/en/event/513150-lac-linux-audio-conference-2025> (**registration must be carried out by June 1, 2025!**).
 
 LAC-25 is free but **you must register** to attend the conference! During the registration process, you might choose to take one of the 2 following paid options which are food related:
 
