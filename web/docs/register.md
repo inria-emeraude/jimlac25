@@ -6,7 +6,9 @@ JIM-25 and LAC-25 are two separate events sharing common ressources. You are wel
 
 ## Inscription aux JIMs 2025
 
-L'inscription aux JIMs 2025 se fait sur le portail suivant : <https://gramebime.mapado.com/event/505377-jim-journees-de-linformatique-musicale-2025> **impérativement avant le premier juin 2025 !** (English portal: <https://gramebime.mapado.com/en/event/505377-jim-journees-de-linformatique-musicale-2025>).
+L'inscription aux JIMs 2025 se fait sur le portail suivant : <https://gramebime.mapado.com/event/505377-jim-journees-de-linformatique-musicale-2025> **impérativement avant le premier juin 2025 !** 
+
+(English portal: <https://gramebime.mapado.com/en/event/505377-jim-journees-de-linformatique-musicale-2025>).
 
 Afin de rendre les Journées de l'Informatique Musicale accessibles au plus grand nombre, l'inscription est payante cette année seulement pour les personnes présentant une communication scientifique. En d'autre termes, si vous souhaitez participer aux JIMs en tant qu'auditeur libre, vous n'avez pas à payer d'inscription. Les options de restaurations détaillées ci-dessous restent évidemment néanmoins payantes pour tous.
 
