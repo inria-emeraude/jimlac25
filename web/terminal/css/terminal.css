@@ -20,6 +20,10 @@
     background-color: rgb(210, 180, 222);
 }
 
+.pgm-iccare{
+    background-color: rgb(178, 186, 187);
+}
+
 * {
     box-sizing: border-box;
     text-rendering: geometricPrecision

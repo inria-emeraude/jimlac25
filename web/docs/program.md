@@ -148,6 +148,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td class="pgm-workshop">Workshops</td>
     <td class="pgm-demo">Demos</td>
     <td class="pgm-music">Artistic Events</td>
+    <td class="pgm-iccare">ICCARE</td>
 </tr>
 </table>
 
@@ -461,14 +462,83 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <th><b>Où</b></th>
 </tr>
 <tr class="pgm-general">
-    <td>09:00 - 09:30</td>
+    <td>08:30 - 09:00</td>
     <td colspan="2">Accueil/Enregistrement</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>09:00 - 09:30</td>
+    <td colspan="2">Intro ICCARE</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <th colspan="4" style="font-size:16pt;"><b>Session ICCARE 1 (JIM-25) : Outils et pratiques de l'IA</b></th>
+</tr>
+<tr class="pgm-iccare">
+    <td>09:30 - 10:00</td>
+    <td>Keynote</td>
+    <td>François Pachet</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>10:00 - 10:30</td>
+    <td>Keynote</td>
+    <td>Mathieu Barthet</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>10:30 - 12:00</td>
+    <td>Démos</td>
+    <td>Jean Louis Hennequin, Jérôme Nikka, et al.</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>12:00 - 12:30</td>
+    <td colspan="2">Échanges</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
     <td>12:30 - 14:00</td>
     <td colspan="2">Déjeuner</td>
     <td><a href="https://maps.app.goo.gl/fMkojWcC2mvSqjJL8">Cantine INSA</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <th colspan="4" style="font-size:16pt;"><b>Session ICCARE 2 (JIM-25) : Outils et pratiques de l'immersion sonore</b></th>
+</tr>
+<tr class="pgm-iccare">
+    <td>14:00 - 14:30</td>
+    <td>Keynote</td>
+    <td>Alain Bonardi</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>14:30 - 15:00</td>
+    <td>Keynote</td>
+    <td>Jérôme Villeneuve</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>15:00 - 15:30</td>
+    <td>Démos : design sonore immersif</td>
+    <td>Alain Bonardi, Markus Noistering, Mathieu Pasquier</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>15:30 - 16:00</td>
+    <td>Démos : outils de spatialisation au Scrime</td>
+    <td>Joseph Larralde</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>16:00 - 16:30</td>
+    <td>Démos</td>
+    <td>Jérôme Villeneuve</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>16:30 - 17:00</td>
+    <td colspan="2">Conclusion de la session spéciale ICCARE</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <th colspan="4" style="font-size:16pt;"><b>Session 6 (JIM-25)</b></th>
