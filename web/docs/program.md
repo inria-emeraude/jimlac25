@@ -65,7 +65,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
                 </td>
                 <td class="s0" dir="ltr">
                     <span style="">
-                        <b>Workshop: Folia et Faust</b><br>--<br>
+                        <b>Workshop: Folia de Kaija Saariaho en Faust</b><br>--<br>
                     </span>
                     <span style="font-style:italic;"><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></span>
                 </td>
@@ -359,7 +359,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-workshop">
     <td>14:00 - 16:00</td>
-    <td>Workshop: Folia et Faust </td>
+    <td>Workshop: Étude de cas - le portage du programme informatique de Folia de Kaija Saariaho en Faust </td>
     <td>Johann Philippe</td>
     <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
 </tr>
