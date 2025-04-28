@@ -860,6 +860,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-workshop">
     <th colspan="4" style="font-size:16pt;"><b>Workshop 2 (LAC-25)</b></th>
+</tr>
 <tr class="pgm-workshop">
     <td>16:30 - 18:30</td>
     <td>C++ Audio Development on Android with LDSP</td>
@@ -957,23 +958,26 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td>Yoshimi Insights and Developments</td>
-    <td>Will Godfrey</td>
-    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
-</tr>
-<tr class="pgm-science">
-    <td>15:30 - 16:00</td>
     <td>Zita-at2 Autotune</td>
     <td>Fons Adriaensen</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
-    <td>16:00 - 16:30</td>
+    <td>15:30 - 16:00</td>
     <td colspan="2">Coffe Break</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
+<tr class="pgm-workshop">
+    <th colspan="4" style="font-size:16pt;"><b>Workshop 3 (LAC-25)</b></th>
+</tr>
+<tr class="pgm-workshop">
+    <td>16:00 - 17:30</td>
+    <td>Yoshimi Insights and Developments</td>
+    <td>Will Godfrey</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
 <tr class="pgm-general">
-    <td>16:30 - 17:00</td>
+    <td>17:30 - 18:00</td>
     <td colspan="2">LAC-25 Closing Ceremony</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
