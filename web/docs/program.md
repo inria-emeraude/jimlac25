@@ -253,13 +253,13 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <th colspan="4" style="font-size:16pt;"><b>Session AFIM/RFIM (JIM-25)</b></th>
 </tr>
 <tr class="pgm-general">
-    <td>16:30 - 17:30</td>
-    <td colspan="2">Séance pléninière conscarée à l'AFIM</td>
+    <td>16:30 - 17:00</td>
+    <td colspan="2">Séance pléninière conscarée à la RFIM</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
-    <td>17:30 - 18:30</td>
-    <td colspan="2">Séance pléninière conscarée à la RFIM</td>
+    <td>17:00 - 18:00</td>
+    <td colspan="2">Séance pléninière conscarée à l'AFIM</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-music">
@@ -364,30 +364,30 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 4 (JIM-25) : Web/Langage</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 4 (JIM-25) : Instrument/Geste</b></th>
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td>Applications audio Web avec Faust : innovations techniques au service de la transmission</td>
-    <td>Stéphane Letz, Jeanne Ribeau</td>
+    <td>Sonorisation des instruments à cordes frottées :identité sonore et traitement par modèle physique pour la prise de son par contact</td>
+    <td>Longo François, Benoît Fabre, Benoît Navarret</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
     <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td>Pharo Sound Design: Adding Auditory Feedback to a Live Programming Environment</td>
-    <td>Domenico Cipriani, Gabriel Darbord</td>
+    <td>Les enfants et les pratiques d'invention au piano augmenté par les moyens informatiques</td>
+    <td>Catherine Schneider</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td>Vers un Métavers Musical Collaboratif : expériences Web Multi-Participants</td>
-    <td>Michel Buffa</td>
+    <td>A Gesture-Centered Real-Time Composition Ecosystem for Augmented Musical Instruments</td>
+    <td>Alessandro De Cecco</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:30 - 16:00</td>
-    <td>Du Samchillian au DBL temps réel : conception d'un instrument de musique fondé sur l'évolution des degrés</td>
-    <td>Emanuele Di Mauro</td>
+    <td>Vers une Taxonomie et une Analyse des Gestes Guitaristiques dans le Brutal Death Metal</td>
+    <td>Quentin Guilluy, Anis Fariji, Joao Fernandes, Mathieu Giraud, Alexandre D'Hooge, Emmanuel Leguy</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 
@@ -397,30 +397,30 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 5 (JIM-25) : Instrument/Geste</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 5 (JIM-25) : Web/Langage</b></th>
 </tr>
 <tr class="pgm-science">
     <td>16:30 - 17:00</td>
-    <td>Sonorisation des instruments à cordes frottées :identité sonore et traitement par modèle physique pour la prise de son par contact</td>
-    <td>Longo François, Benoît Fabre, Benoît Navarret</td>
+    <td>Applications audio Web avec Faust : innovations techniques au service de la transmission</td>
+    <td>Stéphane Letz, Jeanne Ribeau</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>17:00 - 17:30</td>
-    <td>Les enfants et les pratiques d'invention au piano augmenté par les moyens informatiques</td>
-    <td>Catherine Schneider</td>
+    <td>Pharo Sound Design: Adding Auditory Feedback to a Live Programming Environment</td>
+    <td>Domenico Cipriani, Gabriel Darbord</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>17:30 - 18:00</td>
-    <td>A Gesture-Centered Real-Time Composition Ecosystem for Augmented Musical Instruments</td>
-    <td>Alessandro De Cecco</td>
+    <td>Vers un Métavers Musical Collaboratif : expériences Web Multi-Participants</td>
+    <td>Michel Buffa</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>18:00 - 18:30</td>
-    <td>Vers une Taxonomie et une Analyse des Gestes Guitaristiques dans le Brutal Death Metal</td>
-    <td>Quentin Guilluy, Anis Fariji, Joao Fernandes, Mathieu Giraud, Alexandre D'Hooge, Emmanuel Leguy</td>
+    <td>Du Samchillian au DBL temps réel : conception d'un instrument de musique fondé sur l'évolution des degrés</td>
+    <td>Emanuele Di Mauro</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-music">
