@@ -234,7 +234,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
     <td>Vers une préservation pérenne du répertoire des œuvres musicales avec électronique : développement du système Antony</td>
-    <td>Malena Fouillou, Jacques Warnier, Serge Lemouton, Thomas Bottini, Alain Bonardi, Laurent Pottier, Xavier Garnier</td>
+    <td>Malena Fouillou, Serge Lemouton, Laurent Pottier, Jacques Warnier, Thomas Bottini, Alain Bonardi</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
@@ -369,7 +369,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
     <td>Sonorisation des instruments à cordes frottées :identité sonore et traitement par modèle physique pour la prise de son par contact</td>
-    <td>Longo François, Benoît Fabre, Benoît Navarret</td>
+    <td>François Longo, Benoît Fabre, Benoît Navarret</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
     <tr class="pgm-science">
@@ -414,7 +414,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 <tr class="pgm-science">
     <td>17:30 - 18:00</td>
     <td>Vers un Métavers Musical Collaboratif : expériences Web Multi-Participants</td>
-    <td>Michel Buffa</td>
+    <td>Michel Buffa, Quentin Escobar, Ayoub Hofr</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
@@ -555,7 +555,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
     <td>Contrôle temporel des sous-partitions de fichiers MIDI</td>
-    <td>Myriam Desainte-Catherine</td>
+    <td>Bernard Serpette, Joseph Larralde, Jean Haury, Myriam Desainte-Catherine</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
