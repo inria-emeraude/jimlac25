@@ -156,6 +156,27 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 
 <table style="width:100%">
 <tr>
+    <th colspan="4" style="font-size:20pt;"><b>Pendant l'ensemble des JIMs (23-25 juin)</b></th>
+</tr>
+<tr>
+    <th><b>Horaire</b></th>
+    <th><b>Quoi</b></th>
+    <th><b>Qui</b></th>
+    <th><b>Où</b></th>
+</tr>
+<tr class="pgm-music">
+    <th colspan="4" style="font-size:16pt;"><b>Installations Sonores</b></th>
+</tr>
+<tr class="pgm-music">
+    <td>09:00 - 18:00</td>
+    <td>Le temps des cloches -- Une installation sonore en hommage à Jean Lochard</td>
+    <td>Nadir Babouri</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC (2ème étage)</a></td>
+</tr>
+</table>
+
+<table style="width:100%">
+<tr>
     <th colspan="4" style="font-size:20pt;"><b>Lundi 23 juin</b></th>
 </tr>
 <tr>
