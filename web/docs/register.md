@@ -31,9 +31,10 @@ Les options suivantes peuvent être ajoutées pour l'ensemble des catégories d'
 | Option déjeuner | 40 € |
 | Option banquet | 30 € |
 
-L'option déjeuner donne accès à trois déjeuner lors des JIMs. Pour information, il existe peu de lieu de restauration ouvert au public sur le campus (qui est assez grand). Nous vous recommandons donc de prendre l'option déjeuner :).
+L'option déjeuner donne accès à trois repas à la cantine du campus (avec option végétarienne) pendant les JIMs. Pour information, il existe peu de lieux de restauration ouverts au public sur le campus, qui est assez vaste. Nous vous recommandons donc de choisir l'option déjeuner :).
 
-L'option banquet donne accès au banquet concert (en commun avec LAC-25) qui aura lieu le 25 juin en fin de journée et qui aura pour thème "BBQ Auvergnat Electro".
+L'option banquet donne accès au banquet-concert (organisé conjointement avec LAC-25), qui aura lieu le 25 juin en fin de journée et dont le thème sera : "BBQ Auvergnat Électro". Pour les options végétariennes ou véganes, un formulaire sera envoyé après l'inscription afin de préciser votre choix.
+
 
 ## Register to LAC-25
 
@@ -46,6 +47,6 @@ LAC-25 is free but **you must register** to attend the conference! During the re
 | Lunches Option | 40 € |
 | Banquet Option | 30 € |
 
-The Lunches Option gives you access to lunches during the 3 days of the conference. There are unfortunately very few "open" food options on campus which is why we provide this option. If you can't afford it, you should of course feel free to bring your own food.
+The lunch option gives access to three meals at the campus cafeteria (with a vegetarian option) during the JIMs. Please note that there are few dining options open to the public on campus, which is quite large. We therefore recommend choosing the lunch option :).
 
-The Banquet Option gives you access to the banquet concert (happening in conjunction with JIM-25) which will take place in the evening of June 25. The theme of this event is "BBQ Auvergnat Electro" (Auvergnat = lots of melted cheese). You can attend the concert of this event for free, but you won't have access to the bar and to the food.
+The banquet option gives access to the banquet concert (organized jointly with LAC-25), which will take place on the evening of June 25 and will feature the theme “Electro Auvergnat BBQ” (Auvergnat = lots of melted cheese). You can attend the concert of this event for free, but you won't have access to the bar and to the food. For vegetarian or vegan meal options, a form will be sent after registration to specify your preferences.
