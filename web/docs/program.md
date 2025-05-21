@@ -1035,6 +1035,8 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 
 Web Audio Modules (WAMs) is today the main open source standard for developing WebAudio plugins (aka "VSTs for the Web"). This presentation will present the WAM ecosystem along with many live demonstrations.
 
+<img src="../img/buffa_img.jpg" width="100%">
+
 WAM Features:
 
 * Supports audio, midi, video, OSC,
