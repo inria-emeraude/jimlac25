@@ -624,6 +624,8 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 
 ### Keynote 1: Constance Douwes
 
+**Défis énergétiques et écologiques de l'IA pour la création musicale**
+
 **Résumé :** Ces dernières années ont été marquées par la prolifération de l’intelligence artificielle (IA) dans une multitude d’applications, et le domaine de l’informatique musicale n’y échappe pas. Mais derrière l’apparente immatérialité des algorithmes se cache une réalité bien plus concrète : celle d'une consommation énergétique massive et d’une utilisation intensive des ressources en eau et en métaux rares, qui engendrent des coûts environnementaux non négligeables. Dans cet exposé, je propose une introduction aux enjeux écologiques liés à l’usage des réseaux de neurones et j'étudie plus en profondeur les coûts énergétiques associés à l'entraînement et au déploiement de l'IA générative pour l'audio, tout en réfléchissant à la manière de concilier qualité sonore et consommation énergétique. J'espère ainsi éveiller les consciences et donner des clefs vers une IA plus frugale pour la création musicale.
 
 <table style="width:100%">
@@ -721,7 +723,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:30</td>
-    <td>Keynote</td>
+    <td><a href="#keynote-michel-buffa">Making music in the web browser, the Web Audio Module ecosystem</a></td>
     <td>Michel Buffa</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1024,5 +1026,30 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td>TBA</td>
     <td>TBA</td>
     <td><a href="https://maps.app.goo.gl/UrECu8WNiwEmoQ3m8">Le sucre</a></td>
+</tr>
+</table>
+
+### Keynote: Michel Buffa
+
+**Making music in the web browser, the Web Audio Module ecosystem**
+
+Web Audio Modules (WAMs) is today the main open source standard for developing WebAudio plugins (aka "VSTs for the Web"). This presentation will present the WAM ecosystem along with many live demonstrations.
+
+WAM Features:
+
+* Supports audio, midi, video, OSC,
+* Supports third-party module loading across websites, a WAM is identified by a single URI, and can be dynamically loaded in host applications,
+* Works in all major browsers including iOS Safari,
+* Supports WebAudio, WebGL2, WebMIDI,
+* Can be written using many different workflows, JavaScript, TypeScript, using front-end frameworks, DSP part can be cross compiled to WebAssembly from Domain Specific Languages like FAUSTCm, Csound or Cmajor
+* Can be headless or with multiple GUIs, including 3D GUIs,
+* Support many extensions (parameter modulation, video, 3D, assets, etc.)
+* wam-community: over 60 WAM2 plugins ready to integrate into your project.
+
+<table style="width:100%">
+<tr>
+<td><img src="../img/buffa.jpg" width="300px"></td>
+<td><b>Bio :</b> Soon...
+</td>
 </tr>
 </table>
