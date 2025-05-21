@@ -228,7 +228,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:30</td>
-    <td>Keynote</td>
+    <td><a href="#keynote-1-constance-douwes">Défis énergétiques et écologiques de l'IA pour la création musicale</a></td>
     <td>Constance Douwes</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -469,6 +469,8 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 
 <!-- ********************************************* -->
 
+<!--TODO: titre de la pres d'Hugo Chateau-Laurent à caser : Allendia – Explorer de nouveaux territoires sonores avec l’aléatoire -->
+
 <table style="width:100%">
 <tr>
     <th colspan="4" style="font-size:20pt;"><b>Mercredi 25 juin</b></th>
@@ -620,6 +622,18 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 </table>
 
+### Keynote 1: Constance Douwes
+
+**Résumé :** Ces dernières années ont été marquées par la prolifération de l’intelligence artificielle (IA) dans une multitude d’applications, et le domaine de l’informatique musicale n’y échappe pas. Mais derrière l’apparente immatérialité des algorithmes se cache une réalité bien plus concrète : celle d'une consommation énergétique massive et d’une utilisation intensive des ressources en eau et en métaux rares, qui engendrent des coûts environnementaux non négligeables. Dans cet exposé, je propose une introduction aux enjeux écologiques liés à l’usage des réseaux de neurones et j'étudie plus en profondeur les coûts énergétiques associés à l'entraînement et au déploiement de l'IA générative pour l'audio, tout en réfléchissant à la manière de concilier qualité sonore et consommation énergétique. J'espère ainsi éveiller les consciences et donner des clefs vers une IA plus frugale pour la création musicale.
+
+<table style="width:100%">
+<tr>
+<td><img src="../img/constance.jpg" width="300px"></td>
+<td><b>Bio :</b> Constance Douwes est docteure en informatique spécialisée en intelligence artificielle (IA). Elle a effectué son doctorat à l'IRCAM au sein du laboratoire STMS où elle a étudié la consommation énergétique des réseaux de neurones appliqués à la génération audio. Elle a ensuite poursuivi ses recherches lors d’un post-doctorat à l'Inria Nancy, et travaillé sur l'efficacité énergétique des systèmes de détection d’événements sonores. Elle est actuellement post-doctorante au laboratoire d'informatique et systèmes de l'Université Aix-Marseille, où elle continue d’explorer les impacts environnementaux de l’IA.
+</td>
+</tr>
+</table>
+
 ## LAC-25
 
 <table style="width:100%">
@@ -728,7 +742,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
     <td>AudioReach: An End-to-End Solution</td>
-    <td>Lai Patrick</td>
+    <td>Patrick Lai</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
@@ -749,7 +763,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 <tr class="pgm-demo">
     <td>16:00 - 17:00</td>
     <td>AudioReach: An End-to-End Audio Solution</td>
-    <td>Lai Patrick</td>
+    <td>Patrick Lai</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-demo">

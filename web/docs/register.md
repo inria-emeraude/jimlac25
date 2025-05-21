@@ -22,7 +22,7 @@ Afin de rendre les Journées de l'Informatique Musicale accessibles au plus gran
 | Présentateur non-adhérents AFIM | 50 € |
 | Auditeur libre | 0 € |
 
-*L'adhésion à l'AFIM (30 €) peut être faite directement en faisant [un don à l'AFIM via PayPal](https://www.paypal.com/donate?token=xFGdkGxvaP6IZMefqr5dE8d62sx2vOMqlIolKIQ9ZnOLsX44QkQn2-q3CBEQntv1mFVNS-hQCiybzPPS). Si vous choisissez une catégorie "adhérent AFIM" dans le tableau ci-dessus, vous devrez avoir payé vos droits avant les JIM 2025.*
+*L'adhésion à l'AFIM (30 €) peut être faite directement en faisant [un don à l'AFIM via PayPal](http://www.afim-asso.org/spip.php?article5). Si vous choisissez une catégorie "adhérent AFIM" dans le tableau ci-dessus, vous devrez avoir payé vos droits avant les JIM 2025.*
 
 Les options suivantes peuvent être ajoutées pour l'ensemble des catégories d'inscription mentionnées ci-dessus :
 
