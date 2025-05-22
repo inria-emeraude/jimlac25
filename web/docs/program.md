@@ -1051,7 +1051,7 @@ WAM Features:
 <table style="width:100%">
 <tr>
 <td><img src="../img/buffa.jpg" width="300px"></td>
-<td><b>Bio :</b> Soon...
+<td><b>Bio :</b> Michel Buffa is a full professor and researcher at Université Côte d'Azur, and a member of the SPARKS research group within the I3S Laboratory (CNRS). He has played a key role in the development of the Web Audio research field, having participated in all Web Audio Conferences and served on every program committee from 2015 to 2019. He collaborates actively with the W3C Web Audio Working Group and co-created, alongside other researchers and developers, the Web Audio Modules (WAM) standard—a kind of “VST for the web.” He has authored numerous international publications in the Web Audio domain, a field he helped pioneer. With his team, he has developed many WAM plugins and a full-featured online digital audio workstation (DAW). More recently, he has begun working on the "Musical Metaverse," developing real-time, multi-user musical applications that run directly in web browsers on immersive devices.
 </td>
 </tr>
 </table>
