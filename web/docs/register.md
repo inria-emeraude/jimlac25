@@ -10,7 +10,7 @@ L'inscription aux JIMs 2025 se fait sur le portail suivant : <https://gramebime.
 
 (English portal: <https://gramebime.mapado.com/en/event/505377-jim-journees-de-linformatique-musicale-2025>).
 
-Afin de rendre les Journées de l'Informatique Musicale accessibles au plus grand nombre, l'inscription est payante cette année seulement pour les personnes présentant une communication scientifique. En d'autre termes, si vous souhaitez participer aux JIMs en tant qu'auditeur libre, vous n'avez pas à payer d'inscription. Les options de restaurations détaillées ci-dessous restent évidemment néanmoins payantes pour tous.
+Afin de rendre les Journées de l'Informatique Musicale accessibles au plus grand nombre, l'inscription est payante cette année seulement pour les personnes présentant une communication scientifique. En d'autre termes, si vous souhaitez participer aux JIMs en tant qu'auditeur libre (vous n'avez pas (co-)écrit un papier), vous n'avez pas à payer d'inscription. Les options de restaurations détaillées ci-dessous restent évidemment néanmoins payantes pour tous.
 
 ### Tarifs d'inscription à JIM-25
 
@@ -20,7 +20,7 @@ Afin de rendre les Journées de l'Informatique Musicale accessibles au plus gran
 | Présentateur étudiant non-adhérent AFIM | 40 € |
 | Présentateur adhérents AFIM | 10 € |
 | Présentateur non-adhérents AFIM | 50 € |
-| Auditeur libre | 0 € |
+| Auditeur libre (vous n'avez pas (co-)écrit un papier) | 0 € |
 
 *L'adhésion à l'AFIM (30 €) peut être faite directement en faisant [un don à l'AFIM via PayPal](http://www.afim-asso.org/spip.php?article5). Si vous choisissez une catégorie "adhérent AFIM" dans le tableau ci-dessus, vous devrez avoir payé vos droits avant les JIM 2025.*
 
