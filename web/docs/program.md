@@ -487,7 +487,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
-    <td>09:00 - 09:30</td>
+    <td>09:00 - 09:10</td>
     <td colspan="2">Intro ICCARE</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -495,15 +495,15 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <th colspan="4" style="font-size:16pt;"><b>Session ICCARE 1 (JIM-25) : Outils et pratiques de l'IA</b></th>
 </tr>
 <tr class="pgm-iccare">
-    <td>09:30 - 10:00</td>
-    <td>Keynote</td>
-    <td>François Pachet</td>
+    <td>09:15 - 10:00</td>
+    <td>Keynote 1</td>
+    <td>François Pachet (Spotify)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
-    <td>10:00 - 10:30</td>
-    <td>Keynote</td>
-    <td>Mathieu Barthet</td>
+    <td>10:00 - 10:45</td>
+    <td>Keynote 2</td>
+    <td>Mathieu Barthet (AMU)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
@@ -617,7 +617,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-general">
     <td>19:00 - 23:00</td>
-    <td colspan="2">Banquet BBQ Auvergnat Electro (en commun avec ICCARE et LAC-25)</td>
+    <td colspan="2">Banquet BBQ Auvergnat Electro (en commun avec ICCARE et LAC-25: <a href="#lac-25">voir le programme détaillé</a>)</td>
     <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
 </tr>
 </table>
@@ -670,19 +670,45 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 
 <table style="width:100%">
 <tr>
-    <th colspan="3" style="font-size:20pt;"><b>Wednesday, June 25</b></th>
+    <th colspan="4" style="font-size:20pt;"><b>Wednesday, June 25</b></th>
 </tr>
 <tr>
     <th><b>Time</b></th>
     <th><b>What</b></th>
+    <th><b>Who</b></th>
     <th><b>Where</b></th>
 </tr>
-<tr class="pgm-general">
-    <th colspan="3" style="font-size:16pt;"><b>Banquet/Party (JIM-25 + LAC-25)</b></th>
+<tr class="pgm-music">
+    <th colspan="4" style="font-size:16pt;"><b>Banquet BBQ Auvergnat Electro (JIM-25 + LAC-25)</b></th>
 </tr>
-<tr class="pgm-general">
-    <td>19:00 - 23:00</td>
-    <td>Banquet BBQ Auvergnat Electro (en commun avec ICCARE et LAC-25)</td>
+<tr class="pgm-music">
+    <td>20:00 - 23:00</td>
+    <td>RESIDUUM</td>
+    <td>Thomas Mayer</td>
+    <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>20:00 - 23:00</td>
+    <td>A fashionable nightclub</td>
+    <td>Jean-Basile Sosa</td>
+    <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>20:00 - 23:00</td>
+    <td>Eigenform</td>
+    <td>Artem Popov</td>
+    <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>20:00 - 23:00</td>
+    <td>Station 2: Feuilledalle</td>
+    <td>Michal Seta, Dirk Stromberg</td>
+    <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>20:00 - 23:00</td>
+    <td>CRISPRave</td>
+    <td>Niklas Reppel</td>
     <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
 </tr>
 </table>
@@ -811,9 +837,39 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <th colspan="4" style="font-size:16pt;"><b>Concert 1 (LAC-25)</b></th>
 </tr>
 <tr class="pgm-music">
-    <td>19:19 - 20:19</td>
-    <td>TBA</td>
-    <td>TBA</td>
+    <td>19:19 - 21:19</td>
+    <td>A Jar, a Terracotta Pot, and Plenty of Room for Improvement</td>
+    <td>Niklas Reppel</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>Extense -- Audio Augmented Trumpet</td>
+    <td>Nicolas Souchal, Diemo Schwarz</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>Persistances (2024)</td>
+    <td>Alessandro De Cecco</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>Travelling Without Moving</td>
+    <td>Stefano Catena</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>The Well Modulated Dinosaur</td>
+    <td>Fernando Lopez-Lezcano</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>Résurgences (2022)</td>
+    <td>Alessandro De Cecco</td>
     <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
 </tr>
 </table>
@@ -847,7 +903,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 <tr class="pgm-science">
     <td>10:00 - 10:30</td>
     <td>Composing Resilient Software: Architectural Evolution and Collaborative Governance in JackTrip's Open-Source Journey</td>
-    <td>Thielen Sven, Chris Chafe</td>
+    <td>Sven Thielen, Chris Chafe</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
@@ -872,8 +928,8 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>12:00 - 12:30</td>
-    <td>GitHub for Music Collaboration With A Full DAW Is Possible... If You Use It Incorrectly</td>
-    <td>Tom Ray</td>
+    <td>Polyphonic: FPGA-Based Hardware for Saptial Audio</td>
+    <td>Maxime Popoff</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
@@ -926,9 +982,33 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <th colspan="4" style="font-size:16pt;"><b>Concert 2 (LAC-25)</b></th>
 </tr>
 <tr class="pgm-music">
-    <td>19:19 - 20:19</td>
-    <td>TBA</td>
-    <td>TBA</td>
+    <td>19:19 - 21:19</td>
+    <td>3D Illusory Immersive Soundscape: Lava's Roaring Dance</td>
+    <td>Zoe (yi-Cheng) Lin</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>In Praise of Shadows</td>
+    <td>Kerem Ergener</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>VoceST II</td>
+    <td>Massimo Fragala</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>Campi Instabili</td>
+    <td>Marco Matteo Markidis</td>
+    <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
+</tr>
+<tr class="pgm-music">
+    <td>19:19 - 21:19</td>
+    <td>ΣCUBE</td>
+    <td>Henrik Von Coler</td>
     <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
 </tr>
 </table>
