@@ -469,8 +469,6 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 
 <!-- ********************************************* -->
 
-<!--TODO: titre de la pres d'Hugo Chateau-Laurent à caser : Allendia – Explorer de nouveaux territoires sonores avec l’aléatoire -->
-
 <table style="width:100%">
 <tr>
     <th colspan="4" style="font-size:20pt;"><b>Mercredi 25 juin</b></th>
@@ -506,15 +504,33 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td>Mathieu Barthet (AMU)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
+<tr class="pgm-general">
+    <td>10:45 - 12:25</td>
+    <td colspan="2">Pause café + démos</td>
+    <td><a href="https://maps.app.goo.gl/fMkojWcC2mvSqjJL8">BMC</a></td>
+</tr>
+<tr class="pgm-demo">
+    <td>10:45 - 12:25</td>
+    <td>Démo : Allendia – Explorer de nouveaux territoires sonores avec l'aléatoire</td>
+    <td>Hugo Chateau-Laurent (Inria)</td>
+    <td><a href="https://maps.app.goo.gl/fMkojWcC2mvSqjJL8">BMC</a> - coin café</td>
+</tr>
 <tr class="pgm-iccare">
-    <td>10:30 - 12:00</td>
-    <td>Démos</td>
-    <td>Jean Louis Hennequin, Jérôme Nikka, et al.</td>
+    <td>10:45 - 11:15</td>
+    <td>Démo : Composer l'interaction avec des processus génératif, duo C'est pour ça</td>
+    <td>Jérôme Nika (IRCAM), Rémi Fox (musicien)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
-    <td>12:00 - 12:30</td>
-    <td colspan="2">Échanges</td>
+    <td>11:20 - 11:50</td>
+    <td>Démo : Netz - an XR Musical Instrument</td>
+    <td>Max Graf (QMUL/AMU)</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>11:55 - 12:25</td>
+    <td>Démo : IA générative pour la Création musicale</td>
+    <td>Jean Louis Hennequin (YNOV Campus)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
@@ -526,37 +542,36 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <th colspan="4" style="font-size:16pt;"><b>Session ICCARE 2 (JIM-25) : Outils et pratiques de l'immersion sonore</b></th>
 </tr>
 <tr class="pgm-iccare">
-    <td>14:00 - 14:30</td>
-    <td>Keynote</td>
-    <td>Alain Bonardi</td>
+    <td>14:00 - 14:45</td>
+    <td>Keynote 3 : Ouvrir l'espace sonore</td>
+    <td>Alain Bonardi (Paris 8)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
-    <td>14:30 - 15:00</td>
-    <td>Keynote</td>
-    <td>Jérôme Villeneuve</td>
+    <td>14:45 - 15:30</td>
+    <td>Keynote 4 : Outils d'artiste, outils de structure culturelle, et intersections pour les publics</td>
+    <td>Jérôme Villeneuve (Hexagone Meylan), Eric Raynaud (Artiste indépendant et associé à l'Hexagone)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
-<tr class="pgm-iccare">
-    <td>15:00 - 15:30</td>
-    <td>Démos : design sonore immersif</td>
-    <td>Alain Bonardi, Markus Noistering, Mathieu Pasquier</td>
-    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
-</tr>
-<tr class="pgm-iccare">
+<tr class="pgm-general">
     <td>15:30 - 16:00</td>
-    <td>Démos : outils de spatialisation au Scrime</td>
-    <td>Joseph Larralde</td>
-    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+    <td colspan="2">Pause café</td>
+    <td><a href="https://maps.app.goo.gl/fMkojWcC2mvSqjJL8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
     <td>16:00 - 16:30</td>
-    <td>Démos</td>
-    <td>Jérôme Villeneuve</td>
+    <td>Démos : Exemples de représentations opératoires pour le traitement spatial du son</td>
+    <td>Paul Goutmann (Paris 8)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
     <td>16:30 - 17:00</td>
+    <td>Démos : Spatialisation d'un groupe de musiques actuelles amplifiées : étude de cas avec le groupe Praetorian</td>
+    <td>Joseph Larralde (Université de Bordeaux)</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
+<tr class="pgm-iccare">
+    <td>17:00 - 17:15</td>
     <td colspan="2">Conclusion de la session spéciale ICCARE</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -595,20 +610,22 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td>Micael Antunes da Silva</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
+<!--
 <tr class="pgm-science">
     <td>16:30 - 17:00</td>
     <td>Synthèse vocale musicale au point médian : Au croisement du texte et du son</td>
     <td>Olivier Pasquet</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
+-->
 <tr class="pgm-science">
-    <td>17:30 - 18:00</td>
+    <td>16:30 - 17:00</td>
     <td>The Brain Orchestra, un outil de sonification de l'activité neuronale</td>
     <td>Vincent Goudard, Sebastien Wolf</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
-    <td>18:00 - 18:30</td>
+    <td>17:00 - 17:30</td>
     <td colspan="2">Cérémonie de clôture de JIM-25</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -616,7 +633,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <th colspan="4" style="font-size:16pt;"><b>Banquet/Party (JIM-25 + LAC-25)</b></th>
 </tr>
 <tr class="pgm-general">
-    <td>19:00 - 23:00</td>
+    <td>18:30 - 23:00</td>
     <td colspan="2">Banquet BBQ Auvergnat Electro (en commun avec ICCARE et LAC-25: <a href="#lac-25">voir le programme détaillé</a>)</td>
     <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
 </tr>
