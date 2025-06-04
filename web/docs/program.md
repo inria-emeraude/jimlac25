@@ -754,7 +754,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 1 (LAC-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 1 (LAC-25) - Chair: Yann Orlarey</b></th>
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
@@ -794,7 +794,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <td><a href="https://maps.app.goo.gl/fMkojWcC2mvSqjJL8">Cantine INSA</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 2 (LAC-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 2 (LAC-25) - Chair: Victor Lazzarini</b></th>
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
@@ -904,85 +904,85 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <th><b>Where</b></th>
 </tr>
 <tr class="pgm-general">
-    <td>09:00 - 09:30</td>
+    <td>08:45 - 09:15</td>
     <td colspan="2">Welcome/Registration</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 3 (LAC-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 3 (LAC-25) - Chair: Albert Gräf</b></th>
 </tr>
 <tr class="pgm-science">
-    <td>09:30 - 10:00</td>
+    <td>09:15 - 09:45</td>
     <td>BuGUI: A Widget System for Button Grid Controllers</td>
     <td>Thibaud Keller, Victor Lazzarini, Gordon Delap, Jean-Michaël Celerier</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <td>10:00 - 10:30</td>
+    <td>09:45 - 10:15</td>
     <td>Composing Resilient Software: Architectural Evolution and Collaborative Governance in JackTrip's Open-Source Journey</td>
     <td>Sven Thielen, Chris Chafe</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <td>10:30 - 11:00</td>
+    <td>10:15 - 10:45</td>
     <td>CSOUND 7: Bare Metal and Co-Processing Hardwares</td>
     <td>Victor Lazzarini, Aman Jagwani</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
-    <td>11:00 - 11:30</td>
+    <td>10:45 - 11:15</td>
     <td colspan="2">Coffee Break</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 4 (LAC-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 4 (LAC-25) - Chair: Victor Zappi</b></th>
 </tr>
 <tr class="pgm-science">
-    <td>11:30 - 12:00</td>
+    <td>11:15 - 11:45</td>
     <td>Enhancing Interactive Communication with the OVBOX: New Features and Applications in Hearing Research</td>
     <td>Giso Grimm, Volker Hohmann</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <td>12:00 - 12:30</td>
+    <td>11:45 - 12:15</td>
     <td>Polyphonic: FPGA-Based Hardware for Saptial Audio</td>
     <td>Maxime Popoff</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
-    <td>12:30 - 14:00</td>
+    <td>12:15 - 13:30</td>
     <td colspan="2">Lunch</td>
     <td><a href="https://maps.app.goo.gl/fMkojWcC2mvSqjJL8">Cantine INSA</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 5 (LAC-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 5 (LAC-25) - Chair: Henrik von Koler</b></th>
 </tr>
 <tr class="pgm-science">
-    <td>14:00 - 14:30</td>
+    <td>13:30 - 14:00</td>
     <td>Inside Andrea Molino's La vérité, pas toute: The Creation of Swarm Sounds</td>
     <td>Nicola Bernardini, Alvise Vidolin, Luca Richelli, Alessandro Fiordelmondo, Mattia Pizzato</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <td>14:30 - 15:00</td>
+    <td>14:00 - 14:30</td>
     <td>Linux Audio on Android</td>
     <td>Victor Zappi</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <td>15:00 - 15:30</td>
+    <td>14:30 - 15:00</td>
     <td>MFP: A graphical patcher extensible in Python and Faust</td>
     <td>Bill Gribble</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <td>15:30 - 16:00</td>
+    <td>15:00 - 15:30</td>
     <td>Pd-Lua Signals and Graphics</td>
     <td>Albert Gräf, Timothy Schoen, Benjamin Wesch</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
-    <td>16:00 - 16:30</td>
+    <td>15:30 - 16:00</td>
     <td colspan="2">Coffe Break</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -990,7 +990,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <th colspan="4" style="font-size:16pt;"><b>Workshop 2 (LAC-25)</b></th>
 </tr>
 <tr class="pgm-workshop">
-    <td>16:30 - 18:30</td>
+    <td>16:00 - 18:45</td>
     <td>C++ Audio Development on Android with LDSP</td>
     <td>Victor Zappi, Carla Tapparo</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
@@ -1048,7 +1048,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 6 (LAC-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 6 (LAC-25) - Chair: Thomas Rushton</b></th>
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
