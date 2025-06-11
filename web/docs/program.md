@@ -561,7 +561,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 <tr class="pgm-iccare">
     <td>16:00 - 16:30</td>
     <td>Démos : Exemples de représentations opératoires pour le traitement spatial du son</td>
-    <td>Paul Goutmann (Paris 8)</td>
+    <td>Alain Bonardi et Paul Goutmann (Paris 8)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
@@ -841,6 +841,12 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <td>Julian Wolff</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
+<tr class="pgm-demo">
+    <td>16:00 - 17:00</td>
+    <td>The HaptiCoupler: An Open Source System for Bidirectional Interaction with Hybrid Resonant Instruments</td>
+    <td>Matthew Davison</td>
+    <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
+</tr>
 <tr class="pgm-workshop">
     <th colspan="4" style="font-size:16pt;"><b>Workshop 1 (LAC-25)</b></th>
 </tr>
@@ -867,7 +873,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-music">
     <td>19:19 - 21:19</td>
-    <td>Persistances (2024)</td>
+    <td>Persistances</td>
     <td>Alessandro De Cecco</td>
     <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
 </tr>
@@ -879,13 +885,13 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-music">
     <td>19:19 - 21:19</td>
-    <td>The Well Modulated Dinosaur</td>
+    <td>Undance Music I</td>
     <td>Fernando Lopez-Lezcano</td>
     <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
 </tr>
 <tr class="pgm-music">
     <td>19:19 - 21:19</td>
-    <td>Résurgences (2022)</td>
+    <td>Résurgences</td>
     <td>Alessandro De Cecco</td>
     <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
 </tr>
@@ -1074,7 +1080,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 7 (LAC-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 7 (LAC-25) - Chair: Fernando Lopez-Lezcano</b></th>
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:00</td>
