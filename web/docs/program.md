@@ -500,8 +500,8 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-iccare">
     <td>10:00 - 10:45</td>
-    <td>Keynote 2</td>
-    <td>Mathieu Barthet (AMU)</td>
+    <td>Keynote 2 : L'IA Centrée sur l’Humain au service de la création musicale et des expériences immersives</td>
+    <td>Mathieu Barthet (CNRS-AMU PRISM)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
@@ -524,7 +524,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 <tr class="pgm-iccare">
     <td>11:20 - 11:50</td>
     <td>Démo : Netz - an XR Musical Instrument</td>
-    <td>Max Graf (QMUL/AMU)</td>
+    <td>Max Graf (QMUL)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
