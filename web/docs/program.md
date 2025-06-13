@@ -337,7 +337,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td>The Space Bar: an Embedded WFS Sound System</td>
+    <td><a href="https://hal.science/hal-05102322"><img src=../img/paper-icon.png width="5%"></a> The Space Bar: an Embedded WFS Sound System</td>
     <td>Benjamin Quiédeville, Romain Michon, Tanguy Risset, Stéphane Letz</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -706,12 +706,6 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-music">
     <td>20:00 - 23:00</td>
-    <td>A fashionable nightclub</td>
-    <td>Jean-Basile Sosa</td>
-    <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
-</tr>
-<tr class="pgm-music">
-    <td>20:00 - 23:00</td>
     <td>Eigenform</td>
     <td>Artem Popov</td>
     <td><a href="https://maps.app.goo.gl/TkwTpvzrzPcBnynT9">CITI</a></td>
@@ -758,19 +752,19 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td>A Libre Software Framework for Extended Reality Musical Instruments and Sonic Installations</td>
+    <td><a href="https://hal.science/hal-05095979"><img src=../img/paper-icon.png width="5%"></a> A Libre Software Framework for Extended Reality Musical Instruments and Sonic Installations</td>
     <td>Florent Berthaut</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:00 - 10:30</td>
-    <td>A Modular Ecosystem for Audio-Visual Augmented Reality Performances</td>
+    <td><a href="https://hal.science/hal-05095995"><img src=../img/paper-icon.png width="5%"></a> A Modular Ecosystem for Audio-Visual Augmented Reality Performances</td>
     <td>Henrik Von Coler</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:30 - 11:00</td>
-    <td>algojuggledrums - Creating Rhythms from Juggling Patterns</td>
+    <td><a href="https://hal.science/hal-05096005"><img src=../img/paper-icon.png width="5%"></a> algojuggledrums - Creating Rhythms from Juggling Patterns</td>
     <td>Albert Gräf, Sophia Renz</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -798,13 +792,13 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td>AUD-SUR: An Audio Analyzer Assistant for Audio Surveillance Applications</td>
+    <td><a href="https://hal.science/hal-05096011"><img src=../img/paper-icon.png width="5%"></a> AUD-SUR: An Audio Analyzer Assistant for Audio Surveillance Applications</td>
     <td>Lam Pham, Martin Boyer, Schindler Schindler, Silvia Poletti, Marcel Hasenbalg, David Fischinger, Phat Lam, Dat Trans</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td>AudioReach: An End-to-End Solution</td>
+    <td><a href="https://hal.science/hal-05096016"><img src=../img/paper-icon.png width="5%"></a> AudioReach: An End-to-End Solution</td>
     <td>Patrick Lai</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -816,7 +810,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>15:30 - 16:00</td>
-    <td>Bridging Musical Gesture and Computational Representation: Designing Gesture Composition Framework</td>
+    <td><a href="https://hal.science/hal-05096021"><img src=../img/paper-icon.png width="5%"></a> Bridging Musical Gesture and Computational Representation: Designing Gesture Composition Framework</td>
     <td>Markidis Marco Matteo</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -919,19 +913,19 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>09:15 - 09:45</td>
-    <td>BuGUI: A Widget System for Button Grid Controllers</td>
+    <td><a href="https://hal.science/hal-05096026"><img src=../img/paper-icon.png width="5%"></a> BuGUI: A Widget System for Button Grid Controllers</td>
     <td>Thibaud Keller, Victor Lazzarini, Gordon Delap, Jean-Michaël Celerier</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>09:45 - 10:15</td>
-    <td>Composing Resilient Software: Architectural Evolution and Collaborative Governance in JackTrip's Open-Source Journey</td>
+    <td><a href="https://hal.science/hal-05096030"><img src=../img/paper-icon.png width="5%"></a> Composing Resilient Software: Architectural Evolution and Collaborative Governance in JackTrip's Open-Source Journey</td>
     <td>Sven Thielen, Chris Chafe</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:15 - 10:45</td>
-    <td>CSOUND 7: Bare Metal and Co-Processing Hardwares</td>
+    <td><a href="https://hal.science/hal-05096036"><img src=../img/paper-icon.png width="5%"></a> CSOUND 7: Bare Metal and Co-Processing Hardwares</td>
     <td>Victor Lazzarini, Aman Jagwani</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -945,7 +939,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>11:15 - 11:45</td>
-    <td>Enhancing Interactive Communication with the OVBOX: New Features and Applications in Hearing Research</td>
+    <td><a href="https://hal.science/hal-05096038"><img src=../img/paper-icon.png width="5%"></a> Enhancing Interactive Communication with the OVBOX: New Features and Applications in Hearing Research</td>
     <td>Giso Grimm, Volker Hohmann</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -965,25 +959,25 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>13:30 - 14:00</td>
-    <td>Inside Andrea Molino's La vérité, pas toute: The Creation of Swarm Sounds</td>
+    <td><a href="https://hal.science/hal-05096042"><img src=../img/paper-icon.png width="5%"></a> Inside Andrea Molino's La vérité, pas toute: The Creation of Swarm Sounds</td>
     <td>Nicola Bernardini, Alvise Vidolin, Luca Richelli, Alessandro Fiordelmondo, Mattia Pizzato</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td>Linux Audio on Android</td>
+    <td><a href="https://hal.science/hal-05096046"><img src=../img/paper-icon.png width="5%"></a> Linux Audio on Android</td>
     <td>Victor Zappi</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td>MFP: A graphical patcher extensible in Python and Faust</td>
+    <td><a href="https://hal.science/hal-05096050"><img src=../img/paper-icon.png width="5%"></a> MFP: A graphical patcher extensible in Python and Faust</td>
     <td>Bill Gribble</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td>Pd-Lua Signals and Graphics</td>
+    <td><a href="https://hal.science/hal-05096052"><img src=../img/paper-icon.png width="5%"></a> Pd-Lua Signals and Graphics</td>
     <td>Albert Gräf, Timothy Schoen, Benjamin Wesch</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1058,7 +1052,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td>Raptor, the Random Arpeggiator Version 7</td>
+    <td><a href="https://hal.science/hal-05096055"><img src=../img/paper-icon.png width="5%"></a> Raptor, the Random Arpeggiator Version 7</td>
     <td>Albert Gräf</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1084,13 +1078,13 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:00</td>
-    <td>Spatial Room Impulse Response Extrapolation Using the Image Source Method</td>
+    <td><a href="https://hal.science/hal-05096059"><img src=../img/paper-icon.png width="5%"></a> Spatial Room Impulse Response Extrapolation Using the Image Source Method</td>
     <td>Zhenxian Li, Thomas McKenzie</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>12:00 - 12:30</td>
-    <td>Tape Simulation</td>
+    <td><a href="https://hal.science/hal-05096060"><img src=../img/paper-icon.png width="5%"></a> Tape Simulation</td>
     <td>Fons Adriaensen</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1110,13 +1104,13 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td>WebPdL2Ork: Bringing the Linux Laptop Orchestra to the Browser</td>
+    <td><a href="https://hal.science/hal-05096062"><img src=../img/paper-icon.png width="5%"></a> WebPdL2Ork: Bringing the Linux Laptop Orchestra to the Browser</td>
     <td>William Furgerson, Ivica Bukvic, Justin Kerobo, Bradley Davis</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td>Zita-at2 Autotune</td>
+    <td><a href="https://hal.science/hal-05096064"><img src=../img/paper-icon.png width="5%"></a> Zita-at2 Autotune</td>
     <td>Fons Adriaensen</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1144,8 +1138,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-music">
     <td>20:00 - 22:00</td>
-    <td>TBA</td>
-    <td>TBA</td>
+    <td colspan="2">AFALFL (Paris) + Flopine (Paris) + Fronssons (Paris) + Pérégrine (Paris) + Bubobubobubo (Lyon) + g_code (Paris) + Ralt144MI (Lyon) + Char Stiles (NYC)</td>
     <td><a href="https://maps.app.goo.gl/UrECu8WNiwEmoQ3m8">Le sucre</a></td>
 </tr>
 </table>
