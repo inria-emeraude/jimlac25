@@ -214,8 +214,9 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <td>10:30 - 11:00</td><td>Beyond Authorship: Human-AI Collaboration and Open Creative Process in Music</td>
-    <td>Chen Wang</td>
+    <td>10:30 - 11:00</td>
+    <td><a href="https://hal.science/hal-05102322"><img src=../img/paper-icon.png width="5%"></a> The Space Bar: an Embedded WFS Sound System</td>
+    <td>Benjamin Quiédeville, Romain Michon, Tanguy Risset, Stéphane Letz</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
@@ -337,8 +338,8 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td><a href="https://hal.science/hal-05102322"><img src=../img/paper-icon.png width="5%"></a> The Space Bar: an Embedded WFS Sound System</td>
-    <td>Benjamin Quiédeville, Romain Michon, Tanguy Risset, Stéphane Letz</td>
+    <td>Gnomon : un exemple de composition spatiale. Présentation de la pièce et des outils pour la composition, la spatialisation et l’interaction</td>
+    <td>José Miguel Fernandez</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
