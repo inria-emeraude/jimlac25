@@ -203,13 +203,13 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td>A First Implementation of Somax2 Behaviours Using MORFOS Form, Segmentation and Organisation</td>
+    <td><a href="https://hal.science/hal-05066110v2"><img src=../img/paper-icon.png width="5%"></a> A First Implementation of Somax2 Behaviours Using MORFOS Form, Segmentation and Organisation</td>
     <td>Joséphine Calandra, Marco Fiorini, Gérard Assayag</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:00 - 10:30</td>
-    <td>Acoustic Augmentation of the Trumpet — Navigating Control and Unpredictability in a Long Term Art–Science Collaboration</td>
+    <td><a href="https://hal.science/hal-05102295"><img src=../img/paper-icon.png width="5%"></a> Acoustic Augmentation of the Trumpet — Navigating Control and Unpredictability in a Long Term Art–Science Collaboration</td>
     <td>Nicolas Souchal, Diemo Schwarz</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -243,25 +243,25 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td>Frugal and Sustainable Digital Mindset for Music Vocational Education and Training</td>
+    <td><a href="https://hal.science/hal-05102302"><img src=../img/paper-icon.png width="5%"></a> Metamorphoses: Frugal and Sustainable Digital Mindset for Music Vocational Education and Training</td>
     <td>Andrea Bareggi, Simonetta Sargenti, Lamine Amour, Federico Bardazzi</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td>Visualizing the Soundscape: an Approach at the Interface of Music and Ecology</td>
+    <td><a href="https://hal.science/hal-05102307"><img src=../img/paper-icon.png width="5%"></a> Visualizing the Soundscape: an Approach at the Interface of Music and Ecology</td>
     <td>Adèle De Baudouin, Jérôme Sueur, Pierre Couprie</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td>Vers une préservation pérenne du répertoire des œuvres musicales avec électronique : développement du système Antony</td>
+    <td><a href="https://hal.science/hal-05102314"><img src=../img/paper-icon.png width="5%"></a> Vers une préservation pérenne du répertoire des œuvres musicales avec électronique : développement du système Antony</td>
     <td>Malena Fouillou, Serge Lemouton, Laurent Pottier, Jacques Warnier, Thomas Bottini, Alain Bonardi</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:30 - 16:00</td>
-    <td>Méthodologie de pérennisation des programmes informatiques utilisés pour les musiques mixtes et électroacoustiques avec Faust</td>
+    <td><a href="https://hal.science/hal-05102319"><img src=../img/paper-icon.png width="5%"></a> Méthodologie de pérennisation des programmes informatiques utilisés pour les musiques mixtes et électroacoustiques avec Faust</td>
     <td>Johann Philippe</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -344,14 +344,14 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>10:00 - 10:30</td>
-    <td>Auralisation d'oeuvre in situ : entre enjeux techniques et musicaux</td>
+    <td><a href="https://hal.science/hal-05102324"><img src=../img/paper-icon.png width="5%"></a> Auralisation d'oeuvre in situ : entre enjeux techniques et musicaux</td>
     <td>Paul Goutmann, Adrien Zanni</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 
 <tr class="pgm-science">
     <td>10:30 - 11:00</td>
-    <td>Spatialisation d'un concert de musiques actuelles amplifiées : étude de cas avec le groupe PRAETORIAN</td>
+    <td><a href="https://hal.science/hal-05102329"><img src=../img/paper-icon.png width="5%"></a> Spatialisation d'un concert de musiques actuelles amplifiées : étude de cas avec le groupe PRAETORIAN</td>
     <td>Joseph Larralde, Pierrick Legrand</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -390,25 +390,25 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td>Sonorisation des instruments à cordes frottées :identité sonore et traitement par modèle physique pour la prise de son par contact</td>
+    <td><a href="https://hal.science/hal-05102334"><img src=../img/paper-icon.png width="5%"></a> Sonorisation des instruments à cordes frottées :identité sonore et traitement par modèle physique pour la prise de son par contact</td>
     <td>François Longo, Benoît Fabre, Benoît Navarret</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
     <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td>Les enfants et les pratiques d'invention au piano augmenté par les moyens informatiques</td>
+    <td><a href="https://hal.science/hal-05102336"><img src=../img/paper-icon.png width="5%"></a> Les enfants et les pratiques d'invention au piano augmenté par les moyens informatiques</td>
     <td>Catherine Schneider</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td>A Gesture-Centered Real-Time Composition Ecosystem for Augmented Musical Instruments</td>
+    <td><a href="https://hal.science/hal-05102342"><img src=../img/paper-icon.png width="5%"></a> A Gesture-Centered Real-Time Composition Ecosystem for Augmented Musical Instruments</td>
     <td>Alessandro De Cecco</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:30 - 16:00</td>
-    <td>Vers une Taxonomie et une Analyse des Gestes Guitaristiques dans le Brutal Death Metal</td>
+    <td><a href="https://hal.science/hal-05102344"><img src=../img/paper-icon.png width="5%"></a> Vers une Taxonomie et une Analyse des Gestes Guitaristiques dans le Brutal Death Metal</td>
     <td>Quentin Guilluy, Anis Fariji, Joao Fernandes, Mathieu Giraud, Alexandre D'Hooge, Emmanuel Leguy</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -423,25 +423,25 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>16:30 - 17:00</td>
-    <td>Applications audio Web avec Faust : innovations techniques au service de la transmission</td>
+    <td><a href="https://hal.science/hal-05102348"><img src=../img/paper-icon.png width="5%"></a> Applications audio Web avec Faust : innovations techniques au service de la transmission</td>
     <td>Stéphane Letz, Jeanne Ribeau</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>17:00 - 17:30</td>
-    <td>Pharo Sound Design: Adding Auditory Feedback to a Live Programming Environment</td>
+    <td><a href="https://hal.science/hal-05102350"><img src=../img/paper-icon.png width="5%"></a> Pharo Sound Design: Adding Auditory Feedback to a Live Programming Environment</td>
     <td>Domenico Cipriani, Gabriel Darbord</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>17:30 - 18:00</td>
-    <td>Vers un Métavers Musical Collaboratif : expériences Web Multi-Participants</td>
+    <td><a href="https://hal.science/hal-05106965"><img src=../img/paper-icon.png width="5%"></a> Vers un Métavers Musical Collaboratif : expériences Web Multi-Participants</td>
     <td>Michel Buffa, Quentin Escobar, Ayoub Hofr</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>18:00 - 18:30</td>
-    <td>Du Samchillian au DBL temps réel : conception d'un instrument de musique fondé sur l'évolution des degrés</td>
+    <td><a href="https://hal.science/hal-05102359"><img src=../img/paper-icon.png width="5%"></a> Du Samchillian au DBL temps réel : conception d'un instrument de musique fondé sur l'évolution des degrés</td>
     <td>Emanuele Di Mauro</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -581,19 +581,19 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td>Partiels : un logiciel pour analyser et explorer le son</td>
+    <td><a href="https://hal.science/hal-05102365"><img src=../img/paper-icon.png width="5%"></a> Partiels : un logiciel pour analyser et explorer le son</td>
     <td>Pierre Guillot</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td>Kandiskyscore</td>
+    <td><a href="https://hal.science/hal-05102371"><img src=../img/paper-icon.png width="5%"></a> Kandiskyscore</td>
     <td>Dominique Blanchemain</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td>Contrôle temporel des sous-partitions de fichiers MIDI</td>
+    <td><a href="https://hal.science/hal-05102375"><img src=../img/paper-icon.png width="5%"></a> Contrôle temporel des sous-partitions de fichiers MIDI</td>
     <td>Bernard Serpette, Joseph Larralde, Jean Haury, Myriam Desainte-Catherine</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -607,7 +607,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>16:00 - 16:30</td>
-    <td>Shaping Musical Textures With TEIA: Investigating Spectral and Dynamic Features In a Live Electronics Performance Tool</td>
+    <td><a href="https://hal.science/hal-05102381"><img src=../img/paper-icon.png width="5%"></a> Shaping Musical Textures With TEIA: Investigating Spectral and Dynamic Features In a Live Electronics Performance Tool</td>
     <td>Micael Antunes da Silva</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -621,7 +621,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 -->
 <tr class="pgm-science">
     <td>16:30 - 17:00</td>
-    <td>The Brain Orchestra, un outil de sonification de l'activité neuronale</td>
+    <td><a href="https://hal.science/hal-05102386"><img src=../img/paper-icon.png width="5%"></a> The Brain Orchestra, un outil de sonification de l'activité neuronale</td>
     <td>Vincent Goudard, Sebastien Wolf</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
