@@ -3,9 +3,9 @@ site_url: https://jimlac25.inria.fr/
 
 nav:
     - Home: index.md
+    - Live Stream: https://www.youtube.com/@gramecncm/streams
     - Program: program.md
-    - JIM: jim.md
-    - LAC: lac.md
+    - Calls: calls.md
     - Register: register.md
     - Travel: travel.md
 
