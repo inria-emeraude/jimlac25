@@ -1095,7 +1095,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
     <td><a href="https://maps.app.goo.gl/fMkojWcC2mvSqjJL8">Cantine INSA</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 8 (LAC-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 8 (LAC-25) - Chair: Pierre Cochard</b></th>
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
