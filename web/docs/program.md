@@ -281,7 +281,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-general">
     <td>17:00 - 18:00</td>
-    <td colspan="2">Séance pléninière consacrée à l'AFIM</td>
+    <td colspan="2">Assemblée générale de l'AFIM</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-music">
