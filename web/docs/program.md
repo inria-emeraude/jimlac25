@@ -199,7 +199,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 1 (JIM-25) : IA/Co-créativité/contrôle</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 1 (JIM-25) : IA/Co-créativité/contrôle - Chair : Myriam Desainte-Catherine</b></th>
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
@@ -225,7 +225,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Keynote 1 (JIM-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Keynote 1 (JIM-25) - Chair : Stéphane Letz</b></th>
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:30</td>
@@ -239,7 +239,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/fMkojWcC2mvSqjJL8">Cantine INSA</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 2 (JIM-25) : Frugalité / Écologie / Pérennité</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 2 (JIM-25) : Frugalité / Écologie / Pérennité - Chair : Pierre Guillot </b></th>
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
@@ -334,7 +334,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 3 (JIM-25) : Espace</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 3 (JIM-25) : Espace - Chair : Diane Schuh</b></th>
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
@@ -362,7 +362,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Keynote 2 (JIM-25)</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Keynote 2 (JIM-25) - Chair : Romain Michon</b></th>
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:30</td>
@@ -386,7 +386,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/FJLwBhGrcNLqm48U8">Astrée</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 4 (JIM-25) : Instrument/Geste</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 4 (JIM-25) : Instrument/Geste - Chair : José Miguel Fernández</b></th>
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
@@ -419,7 +419,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 5 (JIM-25) : Web/Langage</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 5 (JIM-25) : Web/Langage - Chair : Raphaël Forment</b></th>
 </tr>
 <tr class="pgm-science">
     <td>16:30 - 17:00</td>
@@ -577,7 +577,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 6 (JIM-25) : Logiciel/Langage</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 6 (JIM-25) : Logiciel/Langage - Chair : Michel Buffa</b></th>
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
@@ -603,7 +603,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
-    <th colspan="4" style="font-size:16pt;"><b>Session 7 (JIM-25) : Synthèse/Analyse</b></th>
+    <th colspan="4" style="font-size:16pt;"><b>Session 7 (JIM-25) : Synthèse/Analyse - Chair : Yann Orlarey</b></th>
 </tr>
 <tr class="pgm-science">
     <td>16:00 - 16:30</td>
