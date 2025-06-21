@@ -261,7 +261,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>15:30 - 16:00</td>
-    <td><a href="https://hal.science/hal-05102319"><img src=../img/paper-icon.png width="5%"></a> Méthodologie de pérennisation des programmes informatiques utilisés pour les musiques mixtes et électroacoustiques avec Faust</td>
+    <td><a href="https://hal.science/hal-05102319"><img src=../img/paper-icon.png width="5%"></a> L'utopie numérique de la pérennité en informatique musicale - étude de cas d'une abstraction logicielle avec Folia de Kaija Saariaho</td>
     <td>Johann Philippe</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
