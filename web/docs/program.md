@@ -961,7 +961,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>11:45 - 12:15</td>
-    <td>Polyphonic: FPGA-Based Hardware for Saptial Audio</td>
+    <td>Polyphonic: FPGA-Based Hardware for Spatial Audio</td>
     <td>Maxime Popoff</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
