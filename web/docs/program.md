@@ -1,6 +1,6 @@
 # Program
 
-This program is a work in progress and will be updated "on-the-fly" until the first day of JIMLAC-25.
+The program below contains both links to the JIM-25 and LAC-25 papers (<img src=../img/paper-icon.png width="20px">) and videos (<img src=../img/video-icon.png width="20px">). The final version of the proceedings will be published here soon as well.
 
 ## Program Overview
 
@@ -195,7 +195,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-general">
     <td>09:00 - 09:30</td>
-    <td colspan="2">Discours de bienvenue</td>
+    <td colspan="2"><a href="https://www.youtube.com/live/UaGj0KSc8HU?si=EWSCQVpqOxoAzMsQ&t=1240"><img src=../img/video-icon.png width="20px"></a> Discours de bienvenue</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
@@ -203,19 +203,19 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td><a href="https://hal.science/hal-05066110v2"><img src=../img/paper-icon.png width="5%"></a> A First Implementation of Somax2 Behaviours Using MORFOS Form, Segmentation and Organisation</td>
+    <td><a href="https://www.youtube.com/live/UaGj0KSc8HU?si=qu1gmpuem0ZAfIEy&t=2500"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05066110v2"><img src=../img/paper-icon.png width="20px"></a> A First Implementation of Somax2 Behaviours Using MORFOS Form, Segmentation and Organisation</td>
     <td>Joséphine Calandra, Marco Fiorini, Gérard Assayag</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:00 - 10:30</td>
-    <td><a href="https://hal.science/hal-05102295"><img src=../img/paper-icon.png width="5%"></a> Acoustic Augmentation of the Trumpet — Navigating Control and Unpredictability in a Long Term Art–Science Collaboration</td>
+    <td><a href="https://www.youtube.com/live/UaGj0KSc8HU?si=ktbQBuke2rDztqP2&t=4231"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102295"><img src=../img/paper-icon.png width="20px"></a> Acoustic Augmentation of the Trumpet — Navigating Control and Unpredictability in a Long Term Art–Science Collaboration</td>
     <td>Nicolas Souchal, Diemo Schwarz</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:30 - 11:00</td>
-    <td><a href="https://hal.science/hal-05102322"><img src=../img/paper-icon.png width="5%"></a> The Space Bar: an Embedded WFS Sound System</td>
+    <td><a href="https://www.youtube.com/live/UaGj0KSc8HU?si=BTTxvmDbD_60V2qE&t=6048"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102322"><img src=../img/paper-icon.png width="20px"></a> The Space Bar: an Embedded WFS Sound System</td>
     <td>Benjamin Quiédeville, Romain Michon, Tanguy Risset, Stéphane Letz</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -229,7 +229,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:30</td>
-    <td><a href="#keynote-1-constance-douwes">Défis énergétiques et écologiques de l'IA pour la création musicale</a></td>
+    <td><a href="https://www.youtube.com/live/uwxbSbE2ZJ0?si=Sgf_fvMkxWKzPQmG&t=396"><img src=../img/video-icon.png width="20px"></a><a href="#keynote-1-constance-douwes">Défis énergétiques et écologiques de l'IA pour la création musicale</a></td>
     <td>Constance Douwes</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -243,25 +243,25 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td><a href="https://hal.science/hal-05102302"><img src=../img/paper-icon.png width="5%"></a> Metamorphoses: Frugal and Sustainable Digital Mindset for Music Vocational Education and Training</td>
+    <td><a href="https://www.youtube.com/live/3HebU_49CPI?si=dW79GfO0TB6xi6Bj&t=978"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102302"><img src=../img/paper-icon.png width="20px"></a> Metamorphoses: Frugal and Sustainable Digital Mindset for Music Vocational Education and Training</td>
     <td>Andrea Bareggi, Simonetta Sargenti, Lamine Amour, Federico Bardazzi</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td><a href="https://hal.science/hal-05102307"><img src=../img/paper-icon.png width="5%"></a> Visualizing the Soundscape: an Approach at the Interface of Music and Ecology</td>
+    <td><a href="https://www.youtube.com/live/3HebU_49CPI?si=g56i21nNIEfJwKWr&t=2597"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102307"><img src=../img/paper-icon.png width="20px"></a> Visualizing the Soundscape: an Approach at the Interface of Music and Ecology</td>
     <td>Adèle De Baudouin, Jérôme Sueur, Pierre Couprie</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td><a href="https://hal.science/hal-05102314"><img src=../img/paper-icon.png width="5%"></a> Vers une préservation pérenne du répertoire des œuvres musicales avec électronique : développement du système Antony</td>
+    <td><a href="https://www.youtube.com/live/3HebU_49CPI?si=1iCwpaguvNCzoAEy&t=4223"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102314"><img src=../img/paper-icon.png width="20px"></a> Vers une préservation pérenne du répertoire des œuvres musicales avec électronique : développement du système Antony</td>
     <td>Malena Fouillou, Serge Lemouton, Laurent Pottier, Jacques Warnier, Thomas Bottini, Alain Bonardi</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:30 - 16:00</td>
-    <td><a href="https://hal.science/hal-05102319"><img src=../img/paper-icon.png width="5%"></a> L'utopie numérique de la pérennité en informatique musicale - étude de cas d'une abstraction logicielle avec Folia de Kaija Saariaho</td>
+    <td><a href="https://www.youtube.com/live/3HebU_49CPI?si=RfIESoYIkJpL8xpH&t=6136"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102319"><img src=../img/paper-icon.png width="20px"></a> L'utopie numérique de la pérennité en informatique musicale - étude de cas d'une abstraction logicielle avec Folia de Kaija Saariaho</td>
     <td>Johann Philippe</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -338,20 +338,20 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td>Gnomon : un exemple de composition spatiale. Présentation de la pièce et des outils pour la composition, la spatialisation et l’interaction</td>
+    <td><a href="https://www.youtube.com/live/3HebU_49CPI?si=RfIESoYIkJpL8xpH&t=6136"><img src=../img/video-icon.png width="20px"></a>Gnomon : un exemple de composition spatiale. Présentation de la pièce et des outils pour la composition, la spatialisation et l’interaction</td>
     <td>José Miguel Fernandez</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:00 - 10:30</td>
-    <td><a href="https://hal.science/hal-05102324"><img src=../img/paper-icon.png width="5%"></a> Auralisation d'oeuvre in situ : entre enjeux techniques et musicaux</td>
+    <td><a href="https://www.youtube.com/live/4Z6xkmxDQGk?si=aIQig_uJw7O23OA1&t=2936"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102324"><img src=../img/paper-icon.png width="20px"></a> Auralisation d'oeuvre in situ : entre enjeux techniques et musicaux</td>
     <td>Paul Goutmann, Adrien Zanni</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 
 <tr class="pgm-science">
     <td>10:30 - 11:00</td>
-    <td><a href="https://hal.science/hal-05102329"><img src=../img/paper-icon.png width="5%"></a> Spatialisation d'un concert de musiques actuelles amplifiées : étude de cas avec le groupe PRAETORIAN</td>
+    <td><a href="https://www.youtube.com/live/4Z6xkmxDQGk?si=Qe8s1g-aFQcSFnQQ&t=4718"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102329"><img src=../img/paper-icon.png width="20px"></a> Spatialisation d'un concert de musiques actuelles amplifiées : étude de cas avec le groupe PRAETORIAN</td>
     <td>Joseph Larralde, Pierrick Legrand</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -366,7 +366,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:30</td>
-    <td><a href="#keynote-2-tanguy-risset">Systèmes embarqués audio programmables : l'expérience du projet Emeraude</a></td>
+    <td><a href="https://www.youtube.com/live/N9NXNxSxwnA?si=ctae2REeM5pjGc-i&t=622"><img src=../img/video-icon.png width="20px"></a><a href="#keynote-2-tanguy-risset">Systèmes embarqués audio programmables : l'expérience du projet Emeraude</a></td>
     <td>Tanguy Risset</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -390,25 +390,25 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td><a href="https://hal.science/hal-05102334"><img src=../img/paper-icon.png width="5%"></a> Sonorisation des instruments à cordes frottées :identité sonore et traitement par modèle physique pour la prise de son par contact</td>
+    <td><a href="https://www.youtube.com/live/MUuEPCeCMsE?si=ygtpx3Xa5VZlrtIR&t=614"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102334"><img src=../img/paper-icon.png width="20px"></a> Sonorisation des instruments à cordes frottées :identité sonore et traitement par modèle physique pour la prise de son par contact</td>
     <td>François Longo, Benoît Fabre, Benoît Navarret</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
     <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td><a href="https://hal.science/hal-05102336"><img src=../img/paper-icon.png width="5%"></a> Les enfants et les pratiques d'invention au piano augmenté par les moyens informatiques</td>
+    <td><a href="https://www.youtube.com/live/MUuEPCeCMsE?si=NdSzsHXg_v49ksAX&t=2171"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102336"><img src=../img/paper-icon.png width="20px"></a> Les enfants et les pratiques d'invention au piano augmenté par les moyens informatiques</td>
     <td>Catherine Schneider</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td><a href="https://hal.science/hal-05102342"><img src=../img/paper-icon.png width="5%"></a> A Gesture-Centered Real-Time Composition Ecosystem for Augmented Musical Instruments</td>
+    <td><a href="https://www.youtube.com/live/MUuEPCeCMsE?si=gJwxPIe3GTqk1G7d&t=4143"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102342"><img src=../img/paper-icon.png width="20px"></a> A Gesture-Centered Real-Time Composition Ecosystem for Augmented Musical Instruments</td>
     <td>Alessandro De Cecco</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:30 - 16:00</td>
-    <td><a href="https://hal.science/hal-05102344"><img src=../img/paper-icon.png width="5%"></a> Vers une Taxonomie et une Analyse des Gestes Guitaristiques dans le Brutal Death Metal</td>
+    <td><a href="https://www.youtube.com/live/MUuEPCeCMsE?si=buasjIF0JMgcqfK3&t=6010"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102344"><img src=../img/paper-icon.png width="20px"></a> Vers une Taxonomie et une Analyse des Gestes Guitaristiques dans le Brutal Death Metal</td>
     <td>Quentin Guilluy, Anis Fariji, Joao Fernandes, Mathieu Giraud, Alexandre D'Hooge, Emmanuel Leguy</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -423,25 +423,25 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>16:30 - 17:00</td>
-    <td><a href="https://hal.science/hal-05102348"><img src=../img/paper-icon.png width="5%"></a> Applications audio Web avec Faust : innovations techniques au service de la transmission</td>
+    <td><a href="https://www.youtube.com/live/xQi3LxOAr9M?si=4_KCa77Fr6LwBvRd&t=493"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102348"><img src=../img/paper-icon.png width="20px"></a> Applications audio Web avec Faust : innovations techniques au service de la transmission</td>
     <td>Stéphane Letz, Jeanne Ribeau</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>17:00 - 17:30</td>
-    <td><a href="https://hal.science/hal-05102350"><img src=../img/paper-icon.png width="5%"></a> Pharo Sound Design: Adding Auditory Feedback to a Live Programming Environment</td>
+    <td><a href="https://www.youtube.com/live/xQi3LxOAr9M?si=pU5_jPA8lqYF1vKm&t=2479"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102350"><img src=../img/paper-icon.png width="20px"></a> Pharo Sound Design: Adding Auditory Feedback to a Live Programming Environment</td>
     <td>Domenico Cipriani, Gabriel Darbord</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>17:30 - 18:00</td>
-    <td><a href="https://hal.science/hal-05106965"><img src=../img/paper-icon.png width="5%"></a> Vers un Métavers Musical Collaboratif : expériences Web Multi-Participants</td>
+    <td><a href="https://www.youtube.com/live/xQi3LxOAr9M?si=k7NUqLiqcNZYeqi5&t=3936"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05106965"><img src=../img/paper-icon.png width="20px"></a> Vers un Métavers Musical Collaboratif : expériences Web Multi-Participants</td>
     <td>Michel Buffa, Quentin Escobar, Ayoub Hofr</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>18:00 - 18:30</td>
-    <td><a href="https://hal.science/hal-05102359"><img src=../img/paper-icon.png width="5%"></a> Du Samchillian au DBL temps réel : conception d'un instrument de musique fondé sur l'évolution des degrés</td>
+    <td><a href="https://www.youtube.com/live/xQi3LxOAr9M?si=pS1YkBU8vdIcxLh6&t=5784"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102359"><img src=../img/paper-icon.png width="20px"></a> Du Samchillian au DBL temps réel : conception d'un instrument de musique fondé sur l'évolution des degrés</td>
     <td>Emanuele Di Mauro</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -487,7 +487,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-iccare">
     <td>09:00 - 09:10</td>
-    <td colspan="2">Intro ICCARE</td>
+    <td colspan="2"><a href="https://www.youtube.com/live/hM6Q9_bf7ms?si=Hpt3eGhZKxhfnAwu&t=1479"><img src=../img/video-icon.png width="20px"></a>Intro ICCARE</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
@@ -495,13 +495,13 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-iccare">
     <td>09:15 - 10:00</td>
-    <td>Keynote 1</td>
+    <td><a href="https://www.youtube.com/live/hM6Q9_bf7ms?si=X0W_xUFscVXde6ds&t=2527"><img src=../img/video-icon.png width="20px"></a>Keynote 1</td>
     <td>François Pachet (Spotify)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
     <td>10:00 - 10:45</td>
-    <td>Keynote 2 : L'IA Centrée sur l’Humain au service de la création musicale et des expériences immersives</td>
+    <td><a href="https://www.youtube.com/live/hM6Q9_bf7ms?si=vi7ELlLASKqR4LwF&t=6107"><img src=../img/video-icon.png width="20px"></a>Keynote 2 : L'IA Centrée sur l’Humain au service de la création musicale et des expériences immersives</td>
     <td>Mathieu Barthet (CNRS-AMU PRISM)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -518,13 +518,13 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-iccare">
     <td>11:00 - 12:00</td>
-    <td>Démo : Composer l'interaction avec des processus génératif, duo C'est pour ça</td>
+    <td><a href="https://www.youtube.com/live/sdvrC_Vlx2M?si=DXIM1WFkZsxUP0u3&t=958"><img src=../img/video-icon.png width="20px"></a>Démo : Composer l'interaction avec des processus génératif, duo C'est pour ça</td>
     <td>Jérôme Nika (IRCAM), Rémi Fox (musicien)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-iccare">
     <td>11:00 - 12:00</td>
-    <td>Démo : Netz - an XR Musical Instrument</td>
+    <td><a href="https://www.youtube.com/live/sdvrC_Vlx2M?si=M8wAl_kj6FEWD9Ml&t=3386"><img src=../img/video-icon.png width="20px"></a>Démo : Netz - an XR Musical Instrument</td>
     <td>Max Graf (QMUL)</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -575,19 +575,19 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td><a href="https://hal.science/hal-05102365"><img src=../img/paper-icon.png width="5%"></a> Partiels : un logiciel pour analyser et explorer le son</td>
+    <td><a href="https://www.youtube.com/live/vR7lCBxJQic?si=S8SmYa1_7V59_K44&t=441"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102365"><img src=../img/paper-icon.png width="20px"></a> Partiels : un logiciel pour analyser et explorer le son</td>
     <td>Pierre Guillot</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td><a href="https://hal.science/hal-05102371"><img src=../img/paper-icon.png width="5%"></a> Kandiskyscore</td>
+    <td><a href="https://www.youtube.com/live/vR7lCBxJQic?si=8HhcX1ygx42sr5RN&t=2245"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102371"><img src=../img/paper-icon.png width="20px"></a> Kandiskyscore</td>
     <td>Dominique Blanchemain</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td><a href="https://hal.science/hal-05102375"><img src=../img/paper-icon.png width="5%"></a> Contrôle temporel des sous-partitions de fichiers MIDI</td>
+    <td><a href="https://www.youtube.com/live/vR7lCBxJQic?si=N5jDanz-PSL5_keM&t=4206"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102375"><img src=../img/paper-icon.png width="20px"></a> Contrôle temporel des sous-partitions de fichiers MIDI</td>
     <td>Bernard Serpette, Joseph Larralde, Jean Haury, Myriam Desainte-Catherine</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -601,7 +601,7 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 </tr>
 <tr class="pgm-science">
     <td>16:00 - 16:30</td>
-    <td><a href="https://hal.science/hal-05102381"><img src=../img/paper-icon.png width="5%"></a> Shaping Musical Textures With TEIA: Investigating Spectral and Dynamic Features In a Live Electronics Performance Tool</td>
+    <td><a href="https://www.youtube.com/live/fiKpz9CibtA?si=ApL6YtXFEuBHvs_8&t=446"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102381"><img src=../img/paper-icon.png width="20px"></a> Shaping Musical Textures With TEIA: Investigating Spectral and Dynamic Features In a Live Electronics Performance Tool</td>
     <td>Micael Antunes da Silva</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -615,13 +615,13 @@ This program is a work in progress and will be updated "on-the-fly" until the fi
 -->
 <tr class="pgm-science">
     <td>16:30 - 17:00</td>
-    <td><a href="https://hal.science/hal-05102386"><img src=../img/paper-icon.png width="5%"></a> The Brain Orchestra, un outil de sonification de l'activité neuronale</td>
+    <td><a href="https://www.youtube.com/live/fiKpz9CibtA?si=4753nMOUqAQcJEr5&t=2048"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05102386"><img src=../img/paper-icon.png width="20px"></a> The Brain Orchestra, un outil de sonification de l'activité neuronale</td>
     <td>Vincent Goudard, Sebastien Wolf</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
     <td>17:00 - 17:30</td>
-    <td colspan="2">Cérémonie de clôture de JIM-25</td>
+    <td colspan="2"><a href="https://www.youtube.com/live/fiKpz9CibtA?si=gsULnhp5JWqQ9U1r&t=4098"><img src=../img/video-icon.png width="20px"></a>Cérémonie de clôture de JIM-25</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
@@ -760,7 +760,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-general">
     <td>09:00 - 09:30</td>
-    <td colspan="2">Welcome Speech</td>
+    <td colspan="2"><a href="https://www.youtube.com/live/OekoBrV2UsQ?si=36cwQD5eYXERMdnA&t=1108"><img src=../img/video-icon.png width="20px"></a>Welcome Speech</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
@@ -768,19 +768,19 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td><a href="https://hal.science/hal-05095979"><img src=../img/paper-icon.png width="5%"></a> A Libre Software Framework for Extended Reality Musical Instruments and Sonic Installations</td>
+    <td><a href="https://www.youtube.com/live/OekoBrV2UsQ?si=REPnN3pIIO-oiDz-&t=2464"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05095979"><img src=../img/paper-icon.png width="20px"></a> A Libre Software Framework for Extended Reality Musical Instruments and Sonic Installations</td>
     <td>Florent Berthaut</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:00 - 10:30</td>
-    <td><a href="https://hal.science/hal-05095995"><img src=../img/paper-icon.png width="5%"></a> A Modular Ecosystem for Audio-Visual Augmented Reality Performances</td>
+    <td><a href="https://www.youtube.com/live/OekoBrV2UsQ?si=L_94Phq8adeuzWFG&t=4381"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05095995"><img src=../img/paper-icon.png width="20px"></a> A Modular Ecosystem for Audio-Visual Augmented Reality Performances</td>
     <td>Henrik Von Coler</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:30 - 11:00</td>
-    <td><a href="https://hal.science/hal-05096005"><img src=../img/paper-icon.png width="5%"></a> algojuggledrums - Creating Rhythms from Juggling Patterns</td>
+    <td><a href="https://www.youtube.com/live/OekoBrV2UsQ?si=6snUP6OMhE25zsAR&t=6071"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096005"><img src=../img/paper-icon.png width="20px"></a> algojuggledrums - Creating Rhythms from Juggling Patterns</td>
     <td>Albert Gräf, Sophia Renz</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -794,7 +794,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:30</td>
-    <td><a href="#keynote-michel-buffa">Making music in the web browser, the Web Audio Module ecosystem</a></td>
+    <td><a href="https://www.youtube.com/live/fXEPtE_zTBI?si=SULhj00BqCi6SR4J&t=166"><img src=../img/video-icon.png width="20px"></a><a href="#keynote-michel-buffa">Making music in the web browser, the Web Audio Module ecosystem</a></td>
     <td>Michel Buffa</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -808,25 +808,25 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td><a href="https://hal.science/hal-05096011"><img src=../img/paper-icon.png width="5%"></a> AUD-SUR: An Audio Analyzer Assistant for Audio Surveillance Applications</td>
+    <td><a href="https://www.youtube.com/live/-RnXyOO55uQ?si=p8l-95s7z5IyKcKB&t=581"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096011"><img src=../img/paper-icon.png width="20px"></a> AUD-SUR: An Audio Analyzer Assistant for Audio Surveillance Applications</td>
     <td>Lam Pham, Martin Boyer, Schindler Schindler, Silvia Poletti, Marcel Hasenbalg, David Fischinger, Phat Lam, Dat Trans</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td><a href="https://hal.science/hal-05096016"><img src=../img/paper-icon.png width="5%"></a> AudioReach: An End-to-End Solution</td>
+    <td><a href="https://www.youtube.com/live/-RnXyOO55uQ?si=2J7MQYGSl-LQpn_B&t=3992"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096016"><img src=../img/paper-icon.png width="20px"></a> AudioReach: An End-to-End Solution</td>
     <td>Patrick Lai</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td>AVB for (Linux) Dummies</td>
+    <td><a href="https://www.youtube.com/live/-RnXyOO55uQ?si=hAGvewG4osj90PnN&t=3996"><img src=../img/video-icon.png width="20px"></a>AVB for (Linux) Dummies</td>
     <td>Fernando Lopez-Lezcano, Nils Tonnätt</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:30 - 16:00</td>
-    <td><a href="https://hal.science/hal-05096021"><img src=../img/paper-icon.png width="5%"></a> Bridging Musical Gesture and Computational Representation: Designing Gesture Composition Framework</td>
+    <td><a href="https://www.youtube.com/live/-RnXyOO55uQ?si=3ZHx5kirjkFeDVG6&t=6121"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096021"><img src=../img/paper-icon.png width="20px"></a> Bridging Musical Gesture and Computational Representation: Designing Gesture Composition Framework</td>
     <td>Markidis Marco Matteo</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -862,7 +862,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-workshop">
     <td>17:00 - 18:30</td>
-    <td>Workshop: Ardour Lua Scripting</td>
+    <td><a href="https://www.youtube.com/live/PPpsbsPYrfI?si=VoqAolAnY9bs-of3&t=707"><img src=../img/video-icon.png width="20px"></a>Workshop: Ardour Lua Scripting</td>
     <td>Robin Gareus</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -929,19 +929,19 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>09:15 - 09:45</td>
-    <td><a href="https://hal.science/hal-05096026"><img src=../img/paper-icon.png width="5%"></a> BuGUI: A Widget System for Button Grid Controllers</td>
+    <td><a href="https://www.youtube.com/live/tPHdXNbS33c?si=nnBSx3g5m9rJk52Z&t=18"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096026"><img src=../img/paper-icon.png width="20px"></a> BuGUI: A Widget System for Button Grid Controllers</td>
     <td>Thibaud Keller, Victor Lazzarini, Gordon Delap, Jean-Michaël Celerier</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>09:45 - 10:15</td>
-    <td><a href="https://hal.science/hal-05096030"><img src=../img/paper-icon.png width="5%"></a> Composing Resilient Software: Architectural Evolution and Collaborative Governance in JackTrip's Open-Source Journey</td>
+    <td><a href="https://www.youtube.com/live/tPHdXNbS33c?si=vsQ_bVzUJl31x4WX&t=1225"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096030"><img src=../img/paper-icon.png width="20px"></a> Composing Resilient Software: Architectural Evolution and Collaborative Governance in JackTrip's Open-Source Journey</td>
     <td>Sven Thielen, Chris Chafe</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:15 - 10:45</td>
-    <td><a href="https://hal.science/hal-05096036"><img src=../img/paper-icon.png width="5%"></a> CSOUND 7: Bare Metal and Co-Processing Hardwares</td>
+    <td><a href="https://www.youtube.com/live/tPHdXNbS33c?si=92b-8pkaOQvSHxz9&t=3107"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096036"><img src=../img/paper-icon.png width="20px"></a> CSOUND 7: Bare Metal and Co-Processing Hardwares</td>
     <td>Victor Lazzarini, Aman Jagwani</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -955,13 +955,13 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>11:15 - 11:45</td>
-    <td><a href="https://hal.science/hal-05096038"><img src=../img/paper-icon.png width="5%"></a> Enhancing Interactive Communication with the OVBOX: New Features and Applications in Hearing Research</td>
+    <td><a href="https://www.youtube.com/live/LMm3TCigjm4?si=zqLTiVcIOkjHlDa5&t=139"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096038"><img src=../img/paper-icon.png width="20px"></a> Enhancing Interactive Communication with the OVBOX: New Features and Applications in Hearing Research</td>
     <td>Giso Grimm, Volker Hohmann</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>11:45 - 12:15</td>
-    <td>Polyphonic: FPGA-Based Hardware for Spatial Audio</td>
+    <td><a href="https://www.youtube.com/live/LMm3TCigjm4?si=TUwTg1HQ6FMbmkK9&t=1670"><img src=../img/video-icon.png width="20px"></a>Polyphonic: FPGA-Based Hardware for Spatial Audio</td>
     <td>Maxime Popoff</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -975,25 +975,25 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>13:30 - 14:00</td>
-    <td><a href="https://hal.science/hal-05096042"><img src=../img/paper-icon.png width="5%"></a> Inside Andrea Molino's La vérité, pas toute: The Creation of Swarm Sounds</td>
+    <td><a href="https://www.youtube.com/live/kuSPFya73FA?si=SRKq8sn-Vy62PNeM&t=678"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096042"><img src=../img/paper-icon.png width="20px"></a> Inside Andrea Molino's La vérité, pas toute: The Creation of Swarm Sounds</td>
     <td>Nicola Bernardini, Alvise Vidolin, Luca Richelli, Alessandro Fiordelmondo, Mattia Pizzato</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td><a href="https://hal.science/hal-05096046"><img src=../img/paper-icon.png width="5%"></a> Linux Audio on Android</td>
+    <td><a href="https://www.youtube.com/live/kuSPFya73FA?si=W1QNwluJFG2vkmT2&t=2276"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096046"><img src=../img/paper-icon.png width="20px"></a> Linux Audio on Android</td>
     <td>Victor Zappi</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td><a href="https://hal.science/hal-05096050"><img src=../img/paper-icon.png width="5%"></a> MFP: A graphical patcher extensible in Python and Faust</td>
+    <td><a href="https://www.youtube.com/live/kuSPFya73FA?si=kg8t1CXMCK-hANlN&t=4128"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096050"><img src=../img/paper-icon.png width="20px"></a> MFP: A graphical patcher extensible in Python and Faust</td>
     <td>Bill Gribble</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td><a href="https://hal.science/hal-05096052"><img src=../img/paper-icon.png width="5%"></a> Pd-Lua Signals and Graphics</td>
+    <td><a href="https://www.youtube.com/live/kuSPFya73FA?si=ER7xvQHwtDVYmlgD&t=5988"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096052"><img src=../img/paper-icon.png width="20px"></a> Pd-Lua Signals and Graphics</td>
     <td>Albert Gräf, Timothy Schoen, Benjamin Wesch</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1007,7 +1007,7 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-workshop">
     <td>16:00 - 18:45</td>
-    <td>C++ Audio Development on Android with LDSP</td>
+    <td><a href="https://www.youtube.com/live/-_MTchTcHkw?si=NhqlnH-dWZmX0CDl&t=448"><img src=../img/video-icon.png width="20px"></a>C++ Audio Development on Android with LDSP</td>
     <td>Victor Zappi, Carla Tapparo</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1068,19 +1068,19 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>09:30 - 10:00</td>
-    <td><a href="https://hal.science/hal-05096055"><img src=../img/paper-icon.png width="5%"></a> Raptor, the Random Arpeggiator Version 7</td>
+    <td><a href="https://www.youtube.com/live/bcJl654z8Rk?si=wjdQFeBp60UvwHzl&t=748"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096055"><img src=../img/paper-icon.png width="20px"></a> Raptor, the Random Arpeggiator Version 7</td>
     <td>Albert Gräf</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:00 - 10:30</td>
-    <td><a href="https://hal.science/hal-05096057"><img src=../img/paper-icon.png width="5%"></a> Real-Time Musical Instruments Recognition for Scenography Purposes</td>
+    <td><a href="https://www.youtube.com/live/bcJl654z8Rk?si=aIMnpiWxA9doXR9Z&t=2651"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096057"><img src=../img/paper-icon.png width="20px"></a> Real-Time Musical Instruments Recognition for Scenography Purposes</td>
     <td>Hugues Kadi, Mathis Devidal, Romain Michon, Johan Erbani</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>10:30 - 11:00</td>
-    <td>Reviving the Heavy Compiler: From Abandonment to Ownership</td>
+    <td><a href="https://www.youtube.com/live/bcJl654z8Rk?si=AKi-24ZF0rCh8Efv&t=4475"><img src=../img/video-icon.png width="20px"></a>Reviving the Heavy Compiler: From Abandonment to Ownership</td>
     <td>Alexander Chalikiopoulos</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1094,13 +1094,13 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>11:30 - 12:00</td>
-    <td><a href="https://hal.science/hal-05096059"><img src=../img/paper-icon.png width="5%"></a> Spatial Room Impulse Response Extrapolation Using the Image Source Method</td>
+    <td><a href="https://www.youtube.com/live/NNwtUNuLQTM?si=5wrui-N_LXXDlzA1&t=638"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096059"><img src=../img/paper-icon.png width="20px"></a> Spatial Room Impulse Response Extrapolation Using the Image Source Method</td>
     <td>Zhenxian Li, Thomas McKenzie</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>12:00 - 12:30</td>
-    <td><a href="https://hal.science/hal-05096060"><img src=../img/paper-icon.png width="5%"></a> Tape Simulation</td>
+    <td><a href="https://www.youtube.com/live/NNwtUNuLQTM?si=PEaPRcGNov81hZ5X&t=2285"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096060"><img src=../img/paper-icon.png width="20px"></a> Tape Simulation</td>
     <td>Fons Adriaensen</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1114,19 +1114,19 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-science">
     <td>14:00 - 14:30</td>
-    <td>Using Android smartphones to control music software with OpenSoundControl (OSC) using Sensors2OSC</td>
+    <td><a href="https://www.youtube.com/live/jOhiVQ-RCWA?si=M11o3lkG_LsUPOxO&t=596"><img src=../img/video-icon.png width="20px"></a>Using Android smartphones to control music software with OpenSoundControl (OSC) using Sensors2OSC</td>
     <td>Thomas Mayer</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>14:30 - 15:00</td>
-    <td><a href="https://hal.science/hal-05096062"><img src=../img/paper-icon.png width="5%"></a> WebPdL2Ork: Bringing the Linux Laptop Orchestra to the Browser</td>
+    <td><a href="https://www.youtube.com/live/jOhiVQ-RCWA?si=hjB_VMNHj1rEZdU1&t=2689"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096062"><img src=../img/paper-icon.png width="20px"></a> WebPdL2Ork: Bringing the Linux Laptop Orchestra to the Browser</td>
     <td>William Furgerson, Ivica Bukvic, Justin Kerobo, Bradley Davis</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-science">
     <td>15:00 - 15:30</td>
-    <td><a href="https://hal.science/hal-05096064"><img src=../img/paper-icon.png width="5%"></a> Zita-at2 Autotune</td>
+    <td><a href="https://www.youtube.com/live/jOhiVQ-RCWA?si=mMqrBF41sb1syNZ8&t=3633"><img src=../img/video-icon.png width="20px"></a><a href="https://hal.science/hal-05096064"><img src=../img/paper-icon.png width="20px"></a> Zita-at2 Autotune</td>
     <td>Fons Adriaensen</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
@@ -1140,13 +1140,13 @@ Cet exposé présentera les premiers résultats de l’équipe Emeraude, notamme
 </tr>
 <tr class="pgm-workshop">
     <td>16:00 - 17:30</td>
-    <td>Yoshimi Insights and Developments</td>
+    <td><a href="https://www.youtube.com/live/lulICbo2l0M?si=-OzNwDMWf74eDCns&t=151"><img src=../img/video-icon.png width="20px"></a>Yoshimi Insights and Developments</td>
     <td>Will Godfrey</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-general">
     <td>17:30 - 18:00</td>
-    <td colspan="2">LAC-25 Closing Ceremony</td>
+    <td colspan="2"><a href="https://www.youtube.com/live/lulICbo2l0M?si=SZCAotivtZ_GV7RG&t=5015"><img src=../img/video-icon.png width="20px"></a>LAC-25 Closing Ceremony</td>
     <td><a href="https://maps.app.goo.gl/zn1AEkS9Qme25ZrK8">BMC</a></td>
 </tr>
 <tr class="pgm-music">
