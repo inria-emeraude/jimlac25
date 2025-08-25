@@ -2,6 +2,11 @@
 
 The program below contains both links to the JIM-25 and LAC-25 papers (<img src=../img/paper-icon.png width="20px">) and videos (<img src=../img/video-icon.png width="20px">). The final version of the proceedings will be published here soon as well.
 
+## Proceedings
+
+* [JIM-25 Proceedings](https://hal.science/hal-05168345)
+* [LAC-25 Proceedings](https://hal.science/hal-05194352)
+
 ## Program Overview
 
 <table class="waffle" cellspacing="0" cellpadding="0" style="font-size:11pt;text-align:center;">
